@@ -1,0 +1,221 @@
+[INFO] Loading checkpoint...
+[INFO] Using device: cuda
+[INFO] Loading checkpoint...
+[INFO] Model loaded (T=1000, latent_dim=256)
+[INFO] Loading test embeddings...
+[INFO] Loaded 8477 samples with 100 classes
+
+[INFO] Running posterior inference with 4 paths...
+
+[RESULT] Overall Accuracy: 0.9079
+
+[INFO] Saving results...
+
+[INFO] Generating class-level visualizations...
+[SAVED] ./Keeping_path4/class_0_posterior.png
+[SAVED] ./Keeping_path4/class_0_posterior.svg
+[SAVED] ./Keeping_path4/class_1_posterior.png
+[SAVED] ./Keeping_path4/class_1_posterior.svg
+[SAVED] ./Keeping_path4/class_2_posterior.png
+[SAVED] ./Keeping_path4/class_2_posterior.svg
+[SAVED] ./Keeping_path4/class_3_posterior.png
+[SAVED] ./Keeping_path4/class_3_posterior.svg
+[SAVED] ./Keeping_path4/class_4_posterior.png
+[SAVED] ./Keeping_path4/class_4_posterior.svg
+[SAVED] ./Keeping_path4/class_5_posterior.png
+[SAVED] ./Keeping_path4/class_5_posterior.svg
+[SAVED] ./Keeping_path4/class_6_posterior.png
+[SAVED] ./Keeping_path4/class_6_posterior.svg
+[SAVED] ./Keeping_path4/class_7_posterior.png
+[SAVED] ./Keeping_path4/class_7_posterior.svg
+[SAVED] ./Keeping_path4/class_8_posterior.png
+[SAVED] ./Keeping_path4/class_8_posterior.svg
+[SAVED] ./Keeping_path4/class_9_posterior.png
+[SAVED] ./Keeping_path4/class_9_posterior.svg
+[SAVED] ./Keeping_path4/class_10_posterior.png
+[SAVED] ./Keeping_path4/class_10_posterior.svg
+[SAVED] ./Keeping_path4/class_11_posterior.png
+[SAVED] ./Keeping_path4/class_11_posterior.svg
+[SAVED] ./Keeping_path4/class_12_posterior.png
+[SAVED] ./Keeping_path4/class_12_posterior.svg
+[SAVED] ./Keeping_path4/class_13_posterior.png
+[SAVED] ./Keeping_path4/class_13_posterior.svg
+[SAVED] ./Keeping_path4/class_14_posterior.png
+[SAVED] ./Keeping_path4/class_14_posterior.svg
+[SAVED] ./Keeping_path4/class_15_posterior.png
+[SAVED] ./Keeping_path4/class_15_posterior.svg
+[SAVED] ./Keeping_path4/class_16_posterior.png
+[SAVED] ./Keeping_path4/class_16_posterior.svg
+[SAVED] ./Keeping_path4/class_17_posterior.png
+[SAVED] ./Keeping_path4/class_17_posterior.svg
+[SAVED] ./Keeping_path4/class_18_posterior.png
+[SAVED] ./Keeping_path4/class_18_posterior.svg
+[SAVED] ./Keeping_path4/class_19_posterior.png
+[SAVED] ./Keeping_path4/class_19_posterior.svg
+[SAVED] ./Keeping_path4/class_20_posterior.png
+[SAVED] ./Keeping_path4/class_20_posterior.svg
+[SAVED] ./Keeping_path4/class_21_posterior.png
+[SAVED] ./Keeping_path4/class_21_posterior.svg
+[SAVED] ./Keeping_path4/class_22_posterior.png
+[SAVED] ./Keeping_path4/class_22_posterior.svg
+[SAVED] ./Keeping_path4/class_23_posterior.png
+[SAVED] ./Keeping_path4/class_23_posterior.svg
+[SAVED] ./Keeping_path4/class_24_posterior.png
+[SAVED] ./Keeping_path4/class_24_posterior.svg
+[SAVED] ./Keeping_path4/class_25_posterior.png
+[SAVED] ./Keeping_path4/class_25_posterior.svg
+[SAVED] ./Keeping_path4/class_26_posterior.png
+[SAVED] ./Keeping_path4/class_26_posterior.svg
+[SAVED] ./Keeping_path4/class_27_posterior.png
+[SAVED] ./Keeping_path4/class_27_posterior.svg
+[SAVED] ./Keeping_path4/class_28_posterior.png
+[SAVED] ./Keeping_path4/class_28_posterior.svg
+[SAVED] ./Keeping_path4/class_29_posterior.png
+[SAVED] ./Keeping_path4/class_29_posterior.svg
+[SAVED] ./Keeping_path4/class_30_posterior.png
+[SAVED] ./Keeping_path4/class_30_posterior.svg
+[SAVED] ./Keeping_path4/class_31_posterior.png
+[SAVED] ./Keeping_path4/class_31_posterior.svg
+[SAVED] ./Keeping_path4/class_32_posterior.png
+[SAVED] ./Keeping_path4/class_32_posterior.svg
+[SAVED] ./Keeping_path4/class_33_posterior.png
+[SAVED] ./Keeping_path4/class_33_posterior.svg
+[SAVED] ./Keeping_path4/class_34_posterior.png
+[SAVED] ./Keeping_path4/class_34_posterior.svg
+[SAVED] ./Keeping_path4/class_35_posterior.png
+[SAVED] ./Keeping_path4/class_35_posterior.svg
+[SAVED] ./Keeping_path4/class_36_posterior.png
+[SAVED] ./Keeping_path4/class_36_posterior.svg
+[SAVED] ./Keeping_path4/class_37_posterior.png
+[SAVED] ./Keeping_path4/class_37_posterior.svg
+[SAVED] ./Keeping_path4/class_38_posterior.png
+[SAVED] ./Keeping_path4/class_38_posterior.svg
+[SAVED] ./Keeping_path4/class_39_posterior.png
+[SAVED] ./Keeping_path4/class_39_posterior.svg
+[SAVED] ./Keeping_path4/class_40_posterior.png
+[SAVED] ./Keeping_path4/class_40_posterior.svg
+[SAVED] ./Keeping_path4/class_41_posterior.png
+[SAVED] ./Keeping_path4/class_41_posterior.svg
+[SAVED] ./Keeping_path4/class_42_posterior.png
+[SAVED] ./Keeping_path4/class_42_posterior.svg
+[SAVED] ./Keeping_path4/class_43_posterior.png
+[SAVED] ./Keeping_path4/class_43_posterior.svg
+[SAVED] ./Keeping_path4/class_44_posterior.png
+[SAVED] ./Keeping_path4/class_44_posterior.svg
+[SAVED] ./Keeping_path4/class_45_posterior.png
+[SAVED] ./Keeping_path4/class_45_posterior.svg
+[SAVED] ./Keeping_path4/class_46_posterior.png
+[SAVED] ./Keeping_path4/class_46_posterior.svg
+[SAVED] ./Keeping_path4/class_47_posterior.png
+[SAVED] ./Keeping_path4/class_47_posterior.svg
+[SAVED] ./Keeping_path4/class_48_posterior.png
+[SAVED] ./Keeping_path4/class_48_posterior.svg
+[SAVED] ./Keeping_path4/class_49_posterior.png
+[SAVED] ./Keeping_path4/class_49_posterior.svg
+[SAVED] ./Keeping_path4/class_50_posterior.png
+[SAVED] ./Keeping_path4/class_50_posterior.svg
+[SAVED] ./Keeping_path4/class_51_posterior.png
+[SAVED] ./Keeping_path4/class_51_posterior.svg
+[SAVED] ./Keeping_path4/class_52_posterior.png
+[SAVED] ./Keeping_path4/class_52_posterior.svg
+[SAVED] ./Keeping_path4/class_53_posterior.png
+[SAVED] ./Keeping_path4/class_53_posterior.svg
+[SAVED] ./Keeping_path4/class_54_posterior.png
+[SAVED] ./Keeping_path4/class_54_posterior.svg
+[SAVED] ./Keeping_path4/class_55_posterior.png
+[SAVED] ./Keeping_path4/class_55_posterior.svg
+[SAVED] ./Keeping_path4/class_56_posterior.png
+[SAVED] ./Keeping_path4/class_56_posterior.svg
+[SAVED] ./Keeping_path4/class_57_posterior.png
+[SAVED] ./Keeping_path4/class_57_posterior.svg
+[SAVED] ./Keeping_path4/class_58_posterior.png
+[SAVED] ./Keeping_path4/class_58_posterior.svg
+[SAVED] ./Keeping_path4/class_59_posterior.png
+[SAVED] ./Keeping_path4/class_59_posterior.svg
+[SAVED] ./Keeping_path4/class_60_posterior.png
+[SAVED] ./Keeping_path4/class_60_posterior.svg
+[SAVED] ./Keeping_path4/class_61_posterior.png
+[SAVED] ./Keeping_path4/class_61_posterior.svg
+[SAVED] ./Keeping_path4/class_62_posterior.png
+[SAVED] ./Keeping_path4/class_62_posterior.svg
+[SAVED] ./Keeping_path4/class_63_posterior.png
+[SAVED] ./Keeping_path4/class_63_posterior.svg
+[SAVED] ./Keeping_path4/class_64_posterior.png
+[SAVED] ./Keeping_path4/class_64_posterior.svg
+[SAVED] ./Keeping_path4/class_65_posterior.png
+[SAVED] ./Keeping_path4/class_65_posterior.svg
+[SAVED] ./Keeping_path4/class_66_posterior.png
+[SAVED] ./Keeping_path4/class_66_posterior.svg
+[SAVED] ./Keeping_path4/class_67_posterior.png
+[SAVED] ./Keeping_path4/class_67_posterior.svg
+[SAVED] ./Keeping_path4/class_68_posterior.png
+[SAVED] ./Keeping_path4/class_68_posterior.svg
+[SAVED] ./Keeping_path4/class_69_posterior.png
+[SAVED] ./Keeping_path4/class_69_posterior.svg
+[SAVED] ./Keeping_path4/class_70_posterior.png
+[SAVED] ./Keeping_path4/class_70_posterior.svg
+[SAVED] ./Keeping_path4/class_71_posterior.png
+[SAVED] ./Keeping_path4/class_71_posterior.svg
+[SAVED] ./Keeping_path4/class_72_posterior.png
+[SAVED] ./Keeping_path4/class_72_posterior.svg
+[SAVED] ./Keeping_path4/class_73_posterior.png
+[SAVED] ./Keeping_path4/class_73_posterior.svg
+[SAVED] ./Keeping_path4/class_74_posterior.png
+[SAVED] ./Keeping_path4/class_74_posterior.svg
+[SAVED] ./Keeping_path4/class_75_posterior.png
+[SAVED] ./Keeping_path4/class_75_posterior.svg
+[SAVED] ./Keeping_path4/class_76_posterior.png
+[SAVED] ./Keeping_path4/class_76_posterior.svg
+[SAVED] ./Keeping_path4/class_77_posterior.png
+[SAVED] ./Keeping_path4/class_77_posterior.svg
+[SAVED] ./Keeping_path4/class_78_posterior.png
+[SAVED] ./Keeping_path4/class_78_posterior.svg
+[SAVED] ./Keeping_path4/class_79_posterior.png
+[SAVED] ./Keeping_path4/class_79_posterior.svg
+[SAVED] ./Keeping_path4/class_80_posterior.png
+[SAVED] ./Keeping_path4/class_80_posterior.svg
+[SAVED] ./Keeping_path4/class_81_posterior.png
+[SAVED] ./Keeping_path4/class_81_posterior.svg
+[SAVED] ./Keeping_path4/class_82_posterior.png
+[SAVED] ./Keeping_path4/class_82_posterior.svg
+[SAVED] ./Keeping_path4/class_83_posterior.png
+[SAVED] ./Keeping_path4/class_83_posterior.svg
+[SAVED] ./Keeping_path4/class_84_posterior.png
+[SAVED] ./Keeping_path4/class_84_posterior.svg
+[SAVED] ./Keeping_path4/class_85_posterior.png
+[SAVED] ./Keeping_path4/class_85_posterior.svg
+[SAVED] ./Keeping_path4/class_86_posterior.png
+[SAVED] ./Keeping_path4/class_86_posterior.svg
+[SAVED] ./Keeping_path4/class_87_posterior.png
+[SAVED] ./Keeping_path4/class_87_posterior.svg
+[SAVED] ./Keeping_path4/class_88_posterior.png
+[SAVED] ./Keeping_path4/class_88_posterior.svg
+[SAVED] ./Keeping_path4/class_89_posterior.png
+[SAVED] ./Keeping_path4/class_89_posterior.svg
+[SAVED] ./Keeping_path4/class_90_posterior.png
+[SAVED] ./Keeping_path4/class_90_posterior.svg
+[SAVED] ./Keeping_path4/class_91_posterior.png
+[SAVED] ./Keeping_path4/class_91_posterior.svg
+[SAVED] ./Keeping_path4/class_92_posterior.png
+[SAVED] ./Keeping_path4/class_92_posterior.svg
+[SAVED] ./Keeping_path4/class_93_posterior.png
+[SAVED] ./Keeping_path4/class_93_posterior.svg
+[SAVED] ./Keeping_path4/class_94_posterior.png
+[SAVED] ./Keeping_path4/class_94_posterior.svg
+[SAVED] ./Keeping_path4/class_95_posterior.png
+[SAVED] ./Keeping_path4/class_95_posterior.svg
+[SAVED] ./Keeping_path4/class_96_posterior.png
+[SAVED] ./Keeping_path4/class_96_posterior.svg
+[SAVED] ./Keeping_path4/class_97_posterior.png
+[SAVED] ./Keeping_path4/class_97_posterior.svg
+[SAVED] ./Keeping_path4/class_98_posterior.png
+[SAVED] ./Keeping_path4/class_98_posterior.svg
+[SAVED] ./Keeping_path4/class_99_posterior.png
+[SAVED] ./Keeping_path4/class_99_posterior.svg
+
+[DONE] Results saved to ./Keeping_path4/
+  - posterior_mean.npy: [N, 100]
+  - posterior_sem.npy: [N, 100]
+  - predictions.npy: [N]
+  - results.pkl: per-sample dictionary
+  - class_X_posterior.png: one plot per class

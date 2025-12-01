@@ -1,0 +1,135 @@
+Class 0: 339 samples
+Class 1: 131 samples
+Class 2: 68 samples
+Class 3: 117 samples
+Class 4: 70 samples
+Class 5: 68 samples
+Class 6: 80 samples
+Class 7: 122 samples
+Class 8: 31 samples
+Class 9: 86 samples
+Class 10: 84 samples
+Class 11: 63 samples
+Class 12: 326 samples
+Class 13: 101 samples
+Class 14: 79 samples
+Class 15: 106 samples
+Class 16: 128 samples
+Class 17: 75 samples
+Class 18: 91 samples
+Class 19: 272 samples
+Class 20: 55 samples
+Class 21: 56 samples
+Class 22: 60 samples
+Class 23: 60 samples
+Class 24: 54 samples
+Class 25: 69 samples
+Class 26: 116 samples
+Class 27: 48 samples
+Class 28: 98 samples
+Class 29: 106 samples
+Class 30: 78 samples
+Class 31: 81 samples
+Class 32: 46 samples
+Class 33: 81 samples
+Class 34: 79 samples
+Class 35: 89 samples
+Class 36: 81 samples
+Class 37: 86 samples
+Class 38: 60 samples
+Class 39: 332 samples
+Class 40: 62 samples
+Class 41: 76 samples
+Class 42: 112 samples
+Class 43: 65 samples
+Class 44: 67 samples
+Class 45: 62 samples
+Class 46: 49 samples
+Class 47: 266 samples
+Class 48: 52 samples
+Class 49: 79 samples
+Class 50: 85 samples
+Class 51: 90 samples
+Class 52: 51 samples
+Class 53: 54 samples
+Class 54: 76 samples
+Class 55: 73 samples
+Class 56: 76 samples
+Class 57: 113 samples
+Class 58: 104 samples
+Class 59: 146 samples
+Class 60: 64 samples
+Class 61: 116 samples
+Class 62: 75 samples
+Class 63: 37 samples
+Class 64: 60 samples
+Class 65: 57 samples
+Class 66: 57 samples
+Class 67: 52 samples
+Class 68: 61 samples
+Class 69: 65 samples
+Class 70: 80 samples
+Class 71: 64 samples
+Class 72: 57 samples
+Class 73: 38 samples
+Class 74: 78 samples
+Class 75: 34 samples
+Class 76: 121 samples
+Class 77: 56 samples
+Class 78: 53 samples
+Class 79: 88 samples
+Class 80: 56 samples
+Class 81: 59 samples
+Class 82: 60 samples
+Class 83: 44 samples
+Class 84: 74 samples
+Class 85: 60 samples
+Class 86: 67 samples
+Class 87: 146 samples
+Class 88: 64 samples
+Class 89: 50 samples
+Class 90: 43 samples
+Class 91: 34 samples
+Class 92: 46 samples
+Class 93: 60 samples
+Class 94: 51 samples
+Class 95: 57 samples
+Class 96: 63 samples
+Class 97: 51 samples
+Class 98: 101 samples
+Class 99: 48 samples
+Using: cuda
+
+[Info] Training MLP classifier...
+Epoch 1: Train Loss 0.7080, Train Acc 83.38% | Val Loss 0.3414, Val Acc 90.53%
+Epoch 2: Train Loss 0.3456, Train Acc 90.56% | Val Loss 0.3301, Val Acc 90.38%
+Epoch 3: Train Loss 0.3214, Train Acc 90.82% | Val Loss 0.3247, Val Acc 91.16%
+Epoch 4: Train Loss 0.3115, Train Acc 90.99% | Val Loss 0.3292, Val Acc 90.82%
+Epoch 5: Train Loss 0.3028, Train Acc 91.21% | Val Loss 0.3247, Val Acc 91.18%
+Epoch 6: Train Loss 0.2924, Train Acc 91.23% | Val Loss 0.3289, Val Acc 91.00%
+Epoch 7: Train Loss 0.2814, Train Acc 91.48% | Val Loss 0.3277, Val Acc 90.77%
+Epoch 8: Train Loss 0.2756, Train Acc 91.49% | Val Loss 0.3281, Val Acc 91.51%
+Epoch 9: Train Loss 0.2694, Train Acc 91.63% | Val Loss 0.3284, Val Acc 91.16%
+Epoch 10: Train Loss 0.2624, Train Acc 91.89% | Val Loss 0.3226, Val Acc 91.32%
+Epoch 11: Train Loss 0.2557, Train Acc 92.00% | Val Loss 0.3254, Val Acc 91.36%
+Epoch 12: Train Loss 0.2497, Train Acc 92.01% | Val Loss 0.3302, Val Acc 91.41%
+Epoch 13: Train Loss 0.2475, Train Acc 92.10% | Val Loss 0.3300, Val Acc 91.43%
+Epoch 14: Train Loss 0.2392, Train Acc 92.24% | Val Loss 0.3432, Val Acc 91.43%
+Epoch 15: Train Loss 0.2356, Train Acc 92.33% | Val Loss 0.3296, Val Acc 91.60%
+Epoch 16: Train Loss 0.2308, Train Acc 92.43% | Val Loss 0.3330, Val Acc 91.61%
+Epoch 17: Train Loss 0.2068, Train Acc 93.06% | Val Loss 0.3322, Val Acc 91.79%
+Epoch 18: Train Loss 0.1972, Train Acc 93.24% | Val Loss 0.3425, Val Acc 91.51%
+Epoch 19: Train Loss 0.1922, Train Acc 93.39% | Val Loss 0.3421, Val Acc 91.54%
+Epoch 20: Train Loss 0.1876, Train Acc 93.43% | Val Loss 0.3455, Val Acc 91.79%
+Epoch 21: Train Loss 0.1838, Train Acc 93.55% | Val Loss 0.3525, Val Acc 91.72%
+Epoch 22: Train Loss 0.1818, Train Acc 93.63% | Val Loss 0.3515, Val Acc 91.61%
+Epoch 23: Train Loss 0.1686, Train Acc 94.02% | Val Loss 0.3515, Val Acc 91.66%
+Epoch 24: Train Loss 0.1638, Train Acc 94.10% | Val Loss 0.3519, Val Acc 91.62%
+Epoch 25: Train Loss 0.1616, Train Acc 94.11% | Val Loss 0.3507, Val Acc 91.56%
+Early stopping!
+
+=== MLP Test Performance ===
+Accuracy: 0.9129408989029137
+Macro-F1: 0.9290661372349871
+
+[Info] Saved MLP predictions + posteriors to ./

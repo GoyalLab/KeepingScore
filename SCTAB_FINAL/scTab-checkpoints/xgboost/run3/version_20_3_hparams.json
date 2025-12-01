@@ -1,0 +1,10 @@
+{
+    "cluster": "lrz",
+    "version": "version_20_3",
+    "seed": 3,
+    "n_estimators": 800,
+    "eta": 0.05,
+    "subsample": 0.75,
+    "max_depth": 10,
+    "early_stopping_rounds": 10
+}

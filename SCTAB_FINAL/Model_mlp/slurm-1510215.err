@@ -1,0 +1,24 @@
+/projects/b1042/GoyalLab/jaekj/python/scTAB/lib/python3.8/site-packages/tritonclient/grpc/service_pb2_grpc.py:21: RuntimeWarning: The grpc package installed is at version 1.62.2, but the generated code in grpc_service_pb2_grpc.py depends on grpcio>=1.65.5. Please upgrade your grpc module to grpcio>=1.65.5 or downgrade your generated code using grpcio-tools<=1.62.2. This warning will become an error in 1.66.0, scheduled for release on August 6, 2024.
+  warnings.warn(
+2025-11-21 15:03:09.602280: I tensorflow/compiler/jit/xla_cpu_device.cc:41] Not creating XLA devices, tf_xla_enable_xla_devices not set
+[rank: 0] Seed set to 1
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+/projects/b1042/GoyalLab/jaekj/python/scTAB/lib/python3.8/site-packages/torch/optim/lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+Finding best initial lr:   0%|          | 0/100 [00:00<?, ?it/s]Finding best initial lr:   1%|          | 1/100 [00:00<00:56,  1.74it/s]Finding best initial lr:   6%|▌         | 6/100 [00:00<00:08, 11.12it/s]Finding best initial lr:  11%|█         | 11/100 [00:01<00:07, 11.93it/s]Finding best initial lr:  16%|█▌        | 16/100 [00:01<00:04, 17.82it/s]Finding best initial lr:  21%|██        | 21/100 [00:01<00:05, 15.38it/s]Finding best initial lr:  26%|██▌       | 26/100 [00:01<00:03, 20.25it/s]Finding best initial lr:  31%|███       | 31/100 [00:02<00:04, 16.85it/s]Finding best initial lr:  36%|███▌      | 36/100 [00:02<00:03, 21.30it/s]Finding best initial lr:  41%|████      | 41/100 [00:02<00:03, 17.47it/s]Finding best initial lr:  46%|████▌     | 46/100 [00:02<00:02, 21.78it/s]Finding best initial lr:  51%|█████     | 51/100 [00:03<00:02, 17.82it/s]Finding best initial lr:  56%|█████▌    | 56/100 [00:03<00:01, 22.05it/s]Finding best initial lr:  61%|██████    | 61/100 [00:03<00:02, 17.97it/s]Finding best initial lr:  66%|██████▌   | 66/100 [00:03<00:01, 22.20it/s]Finding best initial lr:  71%|███████   | 71/100 [00:04<00:01, 18.06it/s]Finding best initial lr:  76%|███████▌  | 76/100 [00:04<00:01, 22.26it/s]Finding best initial lr:  81%|████████  | 81/100 [00:04<00:01, 18.11it/s]Finding best initial lr:  86%|████████▌ | 86/100 [00:04<00:00, 22.31it/s]Finding best initial lr:  91%|█████████ | 91/100 [00:05<00:00, 18.15it/s]Finding best initial lr:  96%|█████████▌| 96/100 [00:05<00:00, 22.36it/s]`Trainer.fit` stopped: `max_steps=100` reached.
+Finding best initial lr: 100%|██████████| 100/100 [00:05<00:00, 17.98it/s]
+Learning rate set to 0.030199517204020147
+Restoring states from the checkpoint path at /projects/b1042/GoyalLab/jaekj/SCTAB_FINAL/emb_tb_logs/mlp/run1/mlp/.lr_find_6cb6e5d7-e0bb-40b3-b0d5-ca7e41af0826.ckpt
+/projects/b1042/GoyalLab/jaekj/python/scTAB/lib/python3.8/site-packages/lightning/fabric/utilities/cloud_io.py:57: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+Restored all states from the checkpoint at /projects/b1042/GoyalLab/jaekj/SCTAB_FINAL/emb_tb_logs/mlp/run1/mlp/.lr_find_6cb6e5d7-e0bb-40b3-b0d5-ca7e41af0826.ckpt
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+HPU available: False, using: 0 HPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+/projects/b1042/GoyalLab/jaekj/python/scTAB/lib/python3.8/site-packages/torch/optim/lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+SLURM auto-requeueing enabled. Setting signal handlers.
+`Trainer.fit` stopped: `max_epochs=48` reached.
