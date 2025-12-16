@@ -4,7 +4,7 @@
 
 Code for 'Interpretable Thermodynamic Score-based Classification of Relaxation Excursions'
 
-![Figure 1: Diffusion-based interpretability across modalities](figures/fig1.png)
+![Figure 1: Diffusion-based interpretability across modalities](fig1.png)
 
 Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-based Classification of Relaxation Excursions' are as follows. Note that 1., 2. and 5. can be run on a PC, though 3. and 4. likely require an HPC. 
 
