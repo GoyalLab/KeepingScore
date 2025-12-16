@@ -39,7 +39,7 @@ Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-bas
 
 If you use this code, please cite:
 
-> **Combinatorial prediction of therapeutic perturbations using causally-inspired neural networks**  
+> **Interpretable Thermodynamic Score-based Classification of Relaxation Excursions**  
 > bioRxiv, 2025  
 > https://www.biorxiv.org/content/10.1101/2025.11.26.690838v1
 
