@@ -44,6 +44,6 @@ python -m ipykernel install \
 - `DL_py3.10_repro.yml`: yml file for the environment setup.
 
 ### Notes 
-* Please run the 0-3 in order.
+* Please run 0-3 in order.
 * Running the diffusion model (`2_model.ipynb`) should precede Keeping SCORE analysis.
 * Obtaining the proper train/validation/test split (`1_train_val_test_split.ipynb`) should precede all the model run. 
