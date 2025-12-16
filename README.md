@@ -16,7 +16,9 @@ Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-bas
 
 3. **Cell type (SCTAB_FINAL folder)**: this folder lists the python scripts used for the celltype analysis. linear_model: linear model, LR: logistic regression model, MLP: multi-layer Perceptron, rand_300_path_4.py: Keeping SCORE model,            TabNet.py, tabnet.sh: tabnet model, XGBoost: XGBoost model.
 
-4. **Genetic perturbation (perturb-seq folder)**: 
+4. **Genetic perturbation (perturb-seq folder)**:
+   - README link: [Perturb-seq][(docs.github.com)](https://github.com/GoyalLab/KeepingScore/blob/main/perturb-seq/README.md)
+
                         0_original_data_inspection: this file inspects the original latent space – latent.h5ad
                         1_train_val_test_split: train/validation/test split
                         2_model: our diffusion model used for the perturb-seq anlaysis
@@ -26,7 +28,7 @@ Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-bas
                         Model_XGB: XGBoost model
                         Model_mlp: MLP model
 
-5. **Protein stability**: `protein.ipynb` is a notebook with protein stability data loading, joint VAE+diffusion regression model training and all other analysis regarding Fig. 5.
+6. **Protein stability**: `protein.ipynb` is a notebook with protein stability data loading, joint VAE+diffusion regression model training and all other analysis regarding Fig. 5.
 
 ## Requirements for the cell type & Perturb-seq analysis
 - **Cell Type Analysis:** Python 3.8  
