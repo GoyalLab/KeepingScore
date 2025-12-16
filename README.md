@@ -10,13 +10,13 @@ Code for 'Interpretable Thermodynamic Score-based Classification of Relaxation E
 ## Project Structure
 Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-based Classification of Relaxation Excursions' are as follows. Note that 1., 2. and 5. can be run on a PC, though 3. and 4. likely require an HPC. 
 
-1. MNIST: VAE_MNIST.ipynb is a jupyter notebook to create VAE embeddings from MNIST data. MNIST_final.ipynb is a notebook with diffusion model training and classification as well as all other MNIST analysis (see Fig. 3).
+1. **MNIST**: `VAE_MNIST.ipynb` is a jupyter notebook to create VAE embeddings from MNIST data. `MNIST_final.ipynb` is a notebook with diffusion model training and classification as well as all other MNIST analysis (see Fig. 3).
 
-2. CIFAR10: CIFAR10.ipynb is a notebook with CIFAR10 dataloading, joint VAE+diffusion modeltraining, classification and analysis for the CIFAR10 example (see Fig. 3).
+2. **CIFAR10**: `CIFAR10.ipynb` is a notebook with CIFAR10 dataloading, joint VAE+diffusion modeltraining, classification and analysis for the CIFAR10 example (see Fig. 3).
 
-3. Cell type (SCTAB_FINAL folder): this folder lists the python scripts used for the celltype analysis. linear_model: linear model, LR: logistic regression model, MLP: multi-layer Perceptron, rand_300_path_4.py: Keeping SCORE model,            TabNet.py, tabnet.sh: tabnet model, XGBoost: XGBoost model.
+3. **Cell type (SCTAB_FINAL folder)**: this folder lists the python scripts used for the celltype analysis. linear_model: linear model, LR: logistic regression model, MLP: multi-layer Perceptron, rand_300_path_4.py: Keeping SCORE model,            TabNet.py, tabnet.sh: tabnet model, XGBoost: XGBoost model.
 
-4. Genetic perturbation (perturb-seq folder): 
+4. **Genetic perturbation (perturb-seq folder)**: 
                         0_original_data_inspection: this file inspects the original latent space – latent.h5ad
                         1_train_val_test_split: train/validation/test split
                         2_model: our diffusion model used for the perturb-seq anlaysis
