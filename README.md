@@ -1,4 +1,6 @@
 # KeepingScore
+📄 **Paper:** [bioRxiv](https://doi.org/10.1101/2025.11.26.690838)
+
 Code for 'Interpretable Thermodynamic Score-based Classification of Relaxation Excursions'
 
 Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-based Classification of Relaxation Excursions' are as follows. Note that 1., 2. and 5. can be run on a PC, though 3. and 4. likely require an HPC. 
