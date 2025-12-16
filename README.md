@@ -1,6 +1,7 @@
 # KeepingScore
 [![Paper](https://img.shields.io/badge/Paper-bioRxiv-brightgreen)](https://www.biorxiv.org/content/10.1101/2025.11.26.690838v1)
 [![Code](https://img.shields.io/badge/Code-GitHub-orange)](https://github.com/GoyalLab/KeepingScore/edit/main/)
+[![Paper](https://img.shields.io/badge/Paper-bioRxiv-blue)](LICENSE)
 
 Code for 'Interpretable Thermodynamic Score-based Classification of Relaxation Excursions'
 
