@@ -6,11 +6,24 @@ This directory contains the full pipeline for **Perturb-seq analysis**, includin
 All GPU-dependent components were executed on **NVIDIA A100 GPUs**.
 
 ## Environment Setup Guideline
-Please run the following commands:
-[bash] mamba env create -f DL_py3.10_repro.yml --prefix $target_directory/KS_perturb$
-[bash] mamba activate $target_directory/KS_perturb$
-[bash] mamba install ipykernel -y
-[bash] python -m ipykernel install --prefix=$HOME/.local --name KS_perturb --display-name "KS_perturb"
+To reproduce the Perturb-seq analysis environment, follow the steps below.
+
+### 1. Create the Conda/Mamba environment
+```bash
+mamba env create -f DL_py3.10_repro.yml --prefix $TARGET_DIR/KS_perturb
+```
+### 2. Activate Conda environment 
+```bash
+mamba activate $TARGET_DIR/KS_perturb
+```
+### 3. Install Jupyter kernel support
+```bash
+mamba install ipykernel -y
+python -m ipykernel install \
+  --prefix=$HOME/.local \
+  --name KS_perturb \
+  --display-name "KS_perturb"
+```
 
 ## Data structure
 - `model_MLP`: This folder contains the training details of the multi-layer perceptron for benchmark.
