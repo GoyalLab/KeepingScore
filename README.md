@@ -43,4 +43,8 @@ If you use this code, please cite:
 > bioRxiv, 2025  
 > https://www.biorxiv.org/content/10.1101/2025.11.26.690838v1
 
+## License
+The code in this package is licensed under the MIT license. 
+
+## Questions
 Please contact Ben Kuznets-Speck (biophysben@gmail.com) with any questions. 
