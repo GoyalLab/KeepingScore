@@ -1,4 +1,4 @@
-# KeepingScore
+# Keeping SCORE
 [![Paper](https://img.shields.io/badge/Paper-bioRxiv-brightgreen)](https://www.biorxiv.org/content/10.1101/2025.11.26.690838v1)
 [![Code](https://img.shields.io/badge/Code-GitHub-orange)](https://github.com/GoyalLab/KeepingScore/edit/main/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
