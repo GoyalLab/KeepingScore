@@ -37,5 +37,7 @@ python -m ipykernel install \
 - `model.py`: the python file of the model.
 - `latent.h5ad`: The original latent space embedding used for this analysis.
 
+
 * Please run the 0-3 in order.
 * Running the diffusion model (`2_model.ipynb`) should precede Keeping SCORE analysis.
+* Obtaining the proper train/validation/test split (`1_train_val_test_split.ipynb`) should precede all the model run. 
