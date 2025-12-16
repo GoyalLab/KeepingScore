@@ -23,11 +23,12 @@ Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-bas
 
 5. Protein stability: protein.ipynb is a notebook with protein stability data loading, joint VAE+diffusion regression model training and all other analysis regarding Fig. 5.
 
-## Requirements for the Cell type & Perturb-seq analysis
-Cell type: Python 3.8
-Perturb-seq: Python 3.10+
-Packages: See .yml files and instruction in each folder
-Hardware requirements: Both cell type and Perturb-seq analysis requires 
+## Requirements for the cell type & Perturb-seq analysis
+- **Cell Type Analysis:** Python 3.8  
+- **Perturb-seq Analysis:** Python 3.10+  
+- **Packages:** See environment `.yml` files and instructions in each analysis folder  
+- **Hardware:** GPU recommended for both Cell Type and Perturb-seq analyses
+
 
 ## Citation
 
