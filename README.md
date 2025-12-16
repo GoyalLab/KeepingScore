@@ -7,9 +7,9 @@ Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-bas
 
 2. CIFAR10: CIFAR10.ipynb is a notebook with CIFAR10 dataloading, joint VAE+diffusion modeltraining, classification and analysis for the CIFAR10 example (see Fig. 3).
 
-3. Cell type: this folder lists the python scripts used for the celltype analysis. linear_model: linear model, LR: logistic regression model, MLP: multi-layer Perceptron, rand_300_path_4.py: Keeping SCORE model,            TabNet.py, tabnet.sh: tabnet model, XGBoost: XGBoost model.
+3. Cell type (SCTAB_FINAL folder): this folder lists the python scripts used for the celltype analysis. linear_model: linear model, LR: logistic regression model, MLP: multi-layer Perceptron, rand_300_path_4.py: Keeping SCORE model,            TabNet.py, tabnet.sh: tabnet model, XGBoost: XGBoost model.
 
-4. Genetic perturbation: 
+4. Genetic perturbation (perturb-seq folder): 
                         0_original_data_inspection: this file inspects the original latent space – latent.h5ad
                         1_train_val_test_split: train/validation/test split
                         2_model: our diffusion model used for the perturb-seq anlaysis
