@@ -34,9 +34,9 @@ python -m ipykernel install \
 - `1_train_val_test_split.ipynb`: the file to obtain the training, validation, and test split. This file produces `_train.npy`, `_test.npy`, `_val.npy` files. 
 - `2_model.ipynb`: the file to train a diffusion model. 
 - `3_Classification.ipynb`: the file to perform keepingSCORE-based classification. However, it is recommended to run KeepingSCORE on HPC setting with `Uncertainty_path_4.py` in `model_keeping_score` folder.
-- `model.py`: the python file of the model.
+- `model.py`: the python file of the diffusion model. This file is used for running Keeping SCORE, not for training. The model structure is identical to `2_model.ipynb`.
 - `latent.h5ad`: The original latent space embedding used for this analysis.
-
+- `DL_py3.10_repro.yml`: yml file for the environment setup.
 
 ### Notes 
 * Please run the 0-3 in order.
