@@ -1,4 +1,4 @@
-# Perturb-seq Analysis
+# Keeping SCORE: Perturb-seq Analysis
 
 <p align="center">
   <img src="perturb_seq_illustrative_figure.png" alt="Perturb-seq" width="300">
