@@ -1,5 +1,5 @@
 # KeepingScore
-📄 **Paper:** [bioRxiv](https://doi.org/10.1101/2025.11.26.690838)
+[![Paper](https://img.shields.io/badge/Paper-bioRxiv-brightgreen)](https://www.biorxiv.org/content/10.1101/2025.11.26.690838v1)
 
 Code for 'Interpretable Thermodynamic Score-based Classification of Relaxation Excursions'
 
@@ -22,5 +22,19 @@ Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-bas
                         Model_mlp: MLP model
 
 5. Protein stability: protein.ipynb is a notebook with protein stability data loading, joint VAE+diffusion regression model training and all other analysis regarding Fig. 5.
+
+## Requirements for the Cell type & Perturb-seq analysis
+Cell type: Python 3.8
+Perturb-seq: Python 3.10+
+Packages: See .yml files and instruction in each folder
+Hardware requirements: Both cell type and Perturb-seq analysis requires 
+
+## Citation
+
+If you use this code, please cite:
+
+> **Combinatorial prediction of therapeutic perturbations using causally-inspired neural networks**  
+> bioRxiv, 2025  
+> https://www.biorxiv.org/content/10.1101/2025.11.26.690838v1
 
 Please contact Ben Kuznets-Speck (biophysben@gmail.com) with any questions. 
