@@ -26,7 +26,7 @@ Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-bas
                         Model_XGB: XGBoost model
                         Model_mlp: MLP model
 
-5. Protein stability: protein.ipynb is a notebook with protein stability data loading, joint VAE+diffusion regression model training and all other analysis regarding Fig. 5.
+5. **Protein stability**: `protein.ipynb` is a notebook with protein stability data loading, joint VAE+diffusion regression model training and all other analysis regarding Fig. 5.
 
 ## Requirements for the cell type & Perturb-seq analysis
 - **Cell Type Analysis:** Python 3.8  
