@@ -17,8 +17,6 @@ Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-bas
 3. **Cell type (SCTAB_FINAL folder)**: this folder lists the python scripts used for the celltype analysis. linear_model: linear model, LR: logistic regression model, MLP: multi-layer Perceptron, rand_300_path_4.py: Keeping SCORE model,            TabNet.py, tabnet.sh: tabnet model, XGBoost: XGBoost model.
 
 4. **Genetic perturbation (perturb-seq folder)**:
-   - README link: [Perturb-seq][(docs.github.com)](https://github.com/GoyalLab/KeepingScore/blob/main/perturb-seq/README.md)
-
                         0_original_data_inspection: this file inspects the original latent space – latent.h5ad
                         1_train_val_test_split: train/validation/test split
                         2_model: our diffusion model used for the perturb-seq anlaysis
