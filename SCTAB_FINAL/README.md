@@ -50,8 +50,15 @@ CONDA_OVERRIDE_CUDA="11.1" mamba install -c conda-forge xgboost=1.6.2=cuda111* c
 - `Model_scTab`: Implementation of the original **scTab** model as described in the scTab paper.
 
 - `Model_softmax`: Implementation of the **Keeping SCORE** model proposed in this work.
-
+   
+   - Multiple Keeping SCORE anlaysis was performed, but only `Uncertain_Rand_300_T_1000_Path_4` folder is relevant. 
+     
 - `diffusion_model`: Training scripts and configuration files for the diffusion model used in **Keeping SCORE**.
+
+   - `Model1` is a simple conditional diffusion model with PyTorch lightning setting
+   - `Model2` is a same model as `Model1`. 
+   - `Model3` is a simple conditional diffusion model without PyTorch lightning setting
+   - Only model1 is used to generate the figures in Figure 4.
 
 - `emb_tb_logs`: TensorBoard logs generated during training of scTab-based models.
 
