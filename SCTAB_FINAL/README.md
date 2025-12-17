@@ -67,7 +67,7 @@ CONDA_OVERRIDE_CUDA="11.1" mamba install -c conda-forge xgboost=1.6.2=cuda111* c
 Details on the **scTab** datasets and file formats are available at:  
 https://github.com/theislab/scTab
 
-For this analysis, please download the following dataset:
+For this analysis, please download the following 164GB dataset:
 https://pklab.med.harvard.edu/felix/data/merlin_cxg_2023_05_15_sf-log1p.tar.gz
 
 ```bash
