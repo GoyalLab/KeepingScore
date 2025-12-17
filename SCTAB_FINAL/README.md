@@ -81,7 +81,6 @@ https://pklab.med.harvard.edu/felix/data/merlin_cxg_2023_05_15_sf-log1p.tar.gz
 
 ```bash
 curl -O https://pklab.med.harvard.edu/felix/data/merlin_cxg_2023_05_15_sf-log1p.tar.gz
-mv merlin_cxg_2023_05_15_sf-log1p.tar.gz $OUTPUT_DIR
 ```
 
 ```bash
