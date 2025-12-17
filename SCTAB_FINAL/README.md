@@ -37,7 +37,7 @@ CONDA_OVERRIDE_CUDA="11.1" mamba install -c conda-forge xgboost=1.6.2=cuda111* c
 ```
 
 ## Data structure
-
+> Folders: 
 - `Embedding`: Scripts for extracting **scTab embeddings** from the feature transformer (`train.py`, `val.py`, `test.py`).  
   ⚠️ Embedding extraction requires **very high memory (≥1,000 GB RAM)** and may take **multiple days** to complete.
 
@@ -64,9 +64,12 @@ CONDA_OVERRIDE_CUDA="11.1" mamba install -c conda-forge xgboost=1.6.2=cuda111* c
 - `scTab-devel`: **scTab files** downloaded from the official scTab GitHub repository.
 
    The files were obtained from: https://github.com/theislab/scTab/
-   
-- `Model_comparison_random_300.ipynb`: Notebook comparing performance across all listed models.
 
+> Files:
+
+- `Model_comparison_random_300.ipynb`: Notebook comparing performance across all listed models.
+- `scTAB_environment_fixed.yml`: Environment setup for the cell type analysis 
+   
 ## Data Source
 
 Details on the **scTab** datasets and file formats are available at:  
