@@ -24,6 +24,8 @@ mamba activate $TARGET_DIR/KS_perturb
 ### 3. Install Jupyter kernel support
 ```bash
 mamba install ipykernel -y
+```
+```bash
 python -m ipykernel install \
   --prefix=$HOME/.local \
   --name KS_perturb \
