@@ -19,12 +19,12 @@ Code for **"Interpretable Thermodynamic Score-based Classification of Relaxation
    - `CIFAR10.ipynb`: data loading, joint VAE+diffusion training, classification, analysis (Fig. 3)
 
 3. **Cell Type Analysis (`SCTAB_FINAL`)**  
-   Benchmarking scripts for cell-type classification.  
+   Benchmarking scripts for cell-type classification (Fig. 4).  
    **Models:** Linear, Logistic Regression, MLP, XGBoost, scTab  
    [![Docs](https://img.shields.io/badge/Docs-Cell%20Type-blue)](https://github.com/GoyalLab/KeepingScore/blob/main/SCTAB_FINAL/README.md)
 
 4. **Genetic Perturbation Analysis (`perturb-seq`)**  
-   Benchmarking scripts for Perturb-seq analysis.  
+   Benchmarking scripts for Perturb-seq analysis (Fig. 4).  
    **Models:** Logistic Regression, MLP, XGBoost  
    [![Docs](https://img.shields.io/badge/Docs-Perturb--seq-blue)](https://github.com/GoyalLab/KeepingScore/blob/main/perturb-seq/README.md)
 
