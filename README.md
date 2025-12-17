@@ -14,15 +14,33 @@ Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-bas
 
 2. **CIFAR10**: `CIFAR10.ipynb` is a notebook with CIFAR10 dataloading, joint VAE+diffusion modeltraining, classification and analysis for the CIFAR10 example (see Fig. 3).
 
-3. **Cell type (SCTAB_FINAL folder)**: This folder lists the python scripts used for the celltype analysis.
-   We benchmarked 5 different models: Linear model, Logistic regression, Multi-layer Perceptron (MLP), XGBoost, and scTab.
-   For the details, please see: https://github.com/GoyalLab/KeepingScore/blob/main/perturb-seq/README.md.
+3. **Cell Type Analysis (`SCTAB_FINAL`)**
+This directory contains Python scripts used for **cell-type classification benchmarking**.
 
-5. **Genetic perturbation (perturb-seq folder)**: This folder lists the python scripts used for the Perturb-seq analysis.
-   We benchmarked 4 different models: Logisitc regression, Multi-layer Perceptron (MLP), and XGBoost.
-   For the details, please see: https://github.com/GoyalLab/KeepingScore/blob/main/perturb-seq/README.md
+**Models evaluated**
+- Linear model  
+- Logistic regression  
+- Multi-layer Perceptron (MLP)  
+- XGBoost  
+- scTab  
 
-6. **Protein stability**: `protein.ipynb` is a notebook with protein stability data loading, joint VAE+diffusion regression model training and all other analysis regarding Fig. 5.
+📘 **Detailed documentation:**  
+→ [Cell Type Analysis README](https://github.com/GoyalLab/KeepingScore/blob/main/SCTAB_FINAL/README.md)
+
+---
+
+4. **Genetic Perturbation Analysis (`perturb-seq`)**
+This directory contains Python scripts used for **Perturb-seq analysis**.
+
+**Models evaluated**
+- Logistic regression  
+- Multi-layer Perceptron (MLP)  
+- XGBoost  
+
+📘 **Detailed documentation:**  
+→ [Perturb-seq Analysis README](https://github.com/GoyalLab/KeepingScore/blob/main/perturb-seq/README.md)
+
+5. **Protein stability**: `protein.ipynb` is a notebook with protein stability data loading, joint VAE+diffusion regression model training and all other analysis regarding Fig. 5.
 
 ## Requirements for the cell type & Perturb-seq analysis
 - **Cell Type Analysis:** Python 3.8  
