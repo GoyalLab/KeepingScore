@@ -4,6 +4,8 @@
   <img src="Illustrative_figure_celltype.png" alt="celltype" width="300">
 </p>
 
+This directory contains the full pipeline for scRNA-seq based cell type analysis, including diffusion-based representation learning, Keeping SCORE–based classification, and benchmark classifiers (MLP, XGBoost, linear model, logistic regression, and scTab).
+
 ## Requirements 
 - tSNE plot for the visualization of the test embedding was executed on the high-memory RAM (1,000 GB). 
 - All GPU-dependent components were executed on NVIDIA A100 GPUs.
