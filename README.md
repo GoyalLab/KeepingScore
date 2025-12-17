@@ -14,17 +14,13 @@ Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-bas
 
 2. **CIFAR10**: `CIFAR10.ipynb` is a notebook with CIFAR10 dataloading, joint VAE+diffusion modeltraining, classification and analysis for the CIFAR10 example (see Fig. 3).
 
-3. **Cell type (SCTAB_FINAL folder)**: this folder lists the python scripts used for the celltype analysis. linear_model: linear model, LR: logistic regression model, MLP: multi-layer Perceptron, rand_300_path_4.py: Keeping SCORE model,            TabNet.py, tabnet.sh: tabnet model, XGBoost: XGBoost model.
+3. **Cell type (SCTAB_FINAL folder)**: This folder lists the python scripts used for the celltype analysis.
+   We benchmarked 5 different models: Linear model, Logistic regression, Multi-layer Perceptron (MLP), XGBoost, and scTab.
+   For the details, please see: https://github.com/GoyalLab/KeepingScore/blob/main/perturb-seq/README.md.
 
-4. **Genetic perturbation (perturb-seq folder)**:
-                        0_original_data_inspection: this file inspects the original latent space – latent.h5ad
-                        1_train_val_test_split: train/validation/test split
-                        2_model: our diffusion model used for the perturb-seq anlaysis
-                        3_classification: our KeepingSCORE classifier in jupyter version
-                        KeepingSCORE_path4.py: keeping score analysis file used for the benchmark with path=4
-                        Lr_model: logistic regresswion
-                        Model_XGB: XGBoost model
-                        Model_mlp: MLP model
+5. **Genetic perturbation (perturb-seq folder)**: This folder lists the python scripts used for the Perturb-seq analysis.
+   We benchmarked 4 different models: Logisitc regression, Multi-layer Perceptron (MLP), and XGBoost.
+   For the details, please see: https://github.com/GoyalLab/KeepingScore/blob/main/perturb-seq/README.md
 
 6. **Protein stability**: `protein.ipynb` is a notebook with protein stability data loading, joint VAE+diffusion regression model training and all other analysis regarding Fig. 5.
 
