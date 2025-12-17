@@ -50,8 +50,9 @@ CONDA_OVERRIDE_CUDA="11.1" mamba install -c conda-forge xgboost=1.6.2=cuda111* c
 - `Model_scTab`: Implementation of the original **scTab** model as described in the scTab paper.
 
 - `Model_softmax`: Implementation of the **Keeping SCORE** model proposed in this work.
-   
-   - Multiple Keeping SCORE anlaysis was performed, but only `Uncertain_Rand_300_T_1000_Path_4` folder is relevant. 
+
+   - `timestep_analysis` folder contains the timestep subsampling analysis in Figure 4C.
+   - Multiple Keeping SCORE anlaysis was performed, but only `Uncertainty_Rand_300_T_1000_Path_4` folder is responsible for all the Figures. 
      
 - `diffusion_model`: Training scripts and configuration files for the diffusion model used in **Keeping SCORE**.
 
