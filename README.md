@@ -35,8 +35,8 @@ Code for **"Interpretable Thermodynamic Score-based Classification of Relaxation
 
 | Component | Python | Notes |
 |---|---:|---|
-| Cell Type Analysis | 3.8 | See `SCTAB_FINAL` environment `.yml` + README |
-| Perturb-seq Analysis | 3.10+ | See `perturb-seq` environment `.yml` + README |
+| Cell Type Analysis | 3.8 | See `SCTAB_FINAL` environment `scTAB_environment_fixed.yml` + README |
+| Perturb-seq Analysis | 3.10+ | See `perturb-seq` environment `DL_py3.10_repro.yml` + README |
 | Hardware | — | GPU recommended for both; HPC likely for large runs |
 
 ## Citation
