@@ -61,6 +61,10 @@ CONDA_OVERRIDE_CUDA="11.1" mamba install -c conda-forge xgboost=1.6.2=cuda111* c
   
    The files were obtained from: https://pklab.med.harvard.edu/felix/data/scTab-checkpoints.tar.gz (8.1 GB)
 
+- `scTab-devel`: **scTab files** downloaded from the official scTab GitHub repository.
+
+   The files were obtained from: https://github.com/theislab/scTab/
+   
 - `Model_comparison_random_300.ipynb`: Notebook comparing performance across all listed models.
 
 ## Data Source
@@ -76,4 +80,4 @@ https://pklab.med.harvard.edu/felix/data/merlin_cxg_2023_05_15_sf-log1p.tar.gz
 curl -O https://pklab.med.harvard.edu/felix/data/merlin_cxg_2023_05_15_sf-log1p.tar.gz
 mv merlin_cxg_2023_05_15_sf-log1p.tar.gz $OUTPUT_DIR
 ```
-Note that the `emb_cellnet` - `estimators.py` file was modified to load the extracted embeddings instead of the raw scRNA-seq data.
+Note that the `emb_cellnet` - `estimators.py` file is a modified version of `cellnet` from https://github.com/theislab/scTab to load the extracted embeddings instead of the raw scRNA-seq data.
