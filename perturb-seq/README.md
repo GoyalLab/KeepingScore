@@ -37,10 +37,13 @@ python -m ipykernel install \
 ```
 
 ## Data structure
+> Folders: 
 - `model_MLP`: This folder contains the training details of the multi-layer perceptron for benchmark.
 - `model_XGB`: This folder contains the training details of the XGBoost model for benchmark.
 - `model_keeping_score`: This folder contains our Keeping SCORE model training and prediction details
-- `model_logistic_regression`: This folder contains the training details about the logistic regression model. 
+- `model_logistic_regression`: This folder contains the training details about the logistic regression model.
+
+> Files: 
 - `0_original_data_inspection.ipynb`: the file to inspect the original dataset - `latent.h5ad` file. 
 - `1_train_val_test_split.ipynb`: the file to obtain the training, validation, and test split. This file produces `_train.npy`, `_test.npy`, `_val.npy` files. 
 - `2_model.ipynb`: the file to train a diffusion model. 
