@@ -58,6 +58,7 @@ CONDA_OVERRIDE_CUDA="11.1" mamba install -c conda-forge xgboost=1.6.2=cuda111* c
 - `figures`: Figures used for scTab test embedding visualization (Figure 4A and Figure S3).
 
 - `scTab-checkpoints`: Pretrained **scTab checkpoint files** downloaded from the official scTab GitHub repository.
+  
    The files were obtained from: https://pklab.med.harvard.edu/felix/data/scTab-checkpoints.tar.gz
 
 - `Model_comparison_random_300.ipynb`: Notebook comparing performance across all listed models.
