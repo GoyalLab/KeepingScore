@@ -60,7 +60,8 @@ python -m ipykernel install --user \
 - `Model_comparison_random_300.ipynb`: Notebook comparing performance across all listed models.
 
 ## Data Source
-The details about the scTab files can be found at: 
-   [![Docs](https://img.shields.io/badge/Docs-Perturb--seq-blue)][https://github.com/theislab/scTab.]
-Note that the model `emb_cellnet` files were slightly adjusted to load the obtained embeddings instead of the raw scRNA-seq dataset.
 
+Details about the **scTab** datasets and files can be found here:  
+[![Docs](https://img.shields.io/badge/Docs-scTab-blue)](https://github.com/theislab/scTab)
+
+Note that the `emb_cellnet` model files were **slightly modified** to load the extracted embeddings instead of the raw scRNA-seq data.
