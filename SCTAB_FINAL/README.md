@@ -55,8 +55,6 @@ python -m ipykernel install --user \
 
 - `scTab-checkpoints`: Pretrained **scTab checkpoint files** downloaded from the official scTab GitHub repository.
 
-- `tSNE`: Files related to t-SNE–based visualization of embedding spaces.
-
 - `Model_comparison_random_300.ipynb`: Notebook comparing performance across all listed models.
 
 ## Data Source
