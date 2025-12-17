@@ -1,64 +1,52 @@
 # Keeping SCORE
 [![Paper](https://img.shields.io/badge/Paper-bioRxiv-brightgreen)](https://www.biorxiv.org/content/10.1101/2025.11.26.690838v1)
-[![Code](https://img.shields.io/badge/Code-GitHub-orange)](https://github.com/GoyalLab/KeepingScore/edit/main/)
+[![Code](https://img.shields.io/badge/Code-GitHub-orange)](https://github.com/GoyalLab/KeepingScore)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Code for 'Interpretable Thermodynamic Score-based Classification of Relaxation Excursions'
+Code for **"Interpretable Thermodynamic Score-based Classification of Relaxation Excursions"**.
 
 ![Figure 1: Diffusion-based interpretability across modalities](fig1.png)
 
 ## Project Structure
-Scripts needed to run the examples in the 'Interpretable Thermodynamic Score-based Classification of Relaxation Excursions' are as follows. Note that 1., 2. and 5. can be run on a PC, though 3. and 4. likely require an HPC. 
 
-1. **MNIST**: `VAE_MNIST.ipynb` is a jupyter notebook to create VAE embeddings from MNIST data. `MNIST_final.ipynb` is a notebook with diffusion model training and classification as well as all other MNIST analysis (see Fig. 3).
+> **Compute note:** Items **1, 2, and 5** can typically be run on a local machine. Items **3 and 4** are more likely to require **HPC/GPU** resources.
 
-2. **CIFAR10**: `CIFAR10.ipynb` is a notebook with CIFAR10 dataloading, joint VAE+diffusion modeltraining, classification and analysis for the CIFAR10 example (see Fig. 3).
+1. **MNIST**  
+   - `VAE_MNIST.ipynb`: create VAE embeddings from MNIST  
+   - `MNIST_final.ipynb`: diffusion model training, classification, and analysis (Fig. 3)
 
-3. **Cell Type Analysis (`SCTAB_FINAL`)**
-This directory contains Python scripts used for **cell-type classification benchmarking**.
+2. **CIFAR10**  
+   - `CIFAR10.ipynb`: data loading, joint VAE+diffusion training, classification, analysis (Fig. 3)
 
-**Models evaluated**
-- Linear model  
-- Logistic regression  
-- Multi-layer Perceptron (MLP)  
-- XGBoost  
-- scTab  
+3. **Cell Type Analysis (`SCTAB_FINAL`)**  
+   Benchmarking scripts for cell-type classification.  
+   **Models:** Linear, Logistic Regression, MLP, XGBoost, scTab  
+   [![Docs](https://img.shields.io/badge/Docs-Cell%20Type-blue)](https://github.com/GoyalLab/KeepingScore/blob/main/SCTAB_FINAL/README.md)
 
-📘 **Detailed documentation:**  
-→ [Cell Type Analysis README](https://github.com/GoyalLab/KeepingScore/blob/main/SCTAB_FINAL/README.md)
+4. **Genetic Perturbation Analysis (`perturb-seq`)**  
+   Benchmarking scripts for Perturb-seq analysis.  
+   **Models:** Logistic Regression, MLP, XGBoost  
+   [![Docs](https://img.shields.io/badge/Docs-Perturb--seq-blue)](https://github.com/GoyalLab/KeepingScore/blob/main/perturb-seq/README.md)
 
----
+5. **Protein Stability**  
+   - `protein.ipynb`: protein stability data loading, joint VAE+diffusion regression training, analysis (Fig. 5)
 
-4. **Genetic Perturbation Analysis (`perturb-seq`)**
-This directory contains Python scripts used for **Perturb-seq analysis**.
+## Requirements (Cell Type & Perturb-seq)
 
-**Models evaluated**
-- Logistic regression  
-- Multi-layer Perceptron (MLP)  
-- XGBoost  
-
-📘 **Detailed documentation:**  
-→ [Perturb-seq Analysis README](https://github.com/GoyalLab/KeepingScore/blob/main/perturb-seq/README.md)
-
-5. **Protein stability**: `protein.ipynb` is a notebook with protein stability data loading, joint VAE+diffusion regression model training and all other analysis regarding Fig. 5.
-
-## Requirements for the cell type & Perturb-seq analysis
-- **Cell Type Analysis:** Python 3.8  
-- **Perturb-seq Analysis:** Python 3.10+  
-- **Packages:** See environment `.yml` files and instructions in each analysis folder  
-- **Hardware:** GPU recommended for both Cell Type and Perturb-seq analyses
-
+| Component | Python | Notes |
+|---|---:|---|
+| Cell Type Analysis | 3.8 | See `SCTAB_FINAL` environment `.yml` + README |
+| Perturb-seq Analysis | 3.10+ | See `perturb-seq` environment `.yml` + README |
+| Hardware | — | GPU recommended for both; HPC likely for large runs |
 
 ## Citation
-
 If you use this code, please cite:
 
 > **Interpretable Thermodynamic Score-based Classification of Relaxation Excursions**  
-> bioRxiv, 2025  
-> https://www.biorxiv.org/content/10.1101/2025.11.26.690838v1
+> bioRxiv (2025). https://doi.org/10.1101/2025.11.26.690838
 
 ## License
-The code in this package is licensed under the MIT license. 
+Released under the **MIT License** (see `LICENSE`).
 
 ## Questions
-Please contact Ben Kuznets-Speck (biophysben@gmail.com) with any questions. 
+Please contact **Ben Kuznets-Speck** (biophysben@gmail.com).
