@@ -61,6 +61,6 @@ python -m ipykernel install --user \
 
 ## Data Source
 The details about the scTab files can be found at: 
-   [![Docs](https://github.com/theislab/scTab.)
+   [![Docs](https://img.shields.io/badge/Docs-Perturb--seq-blue)][https://github.com/theislab/scTab.]
 Note that the model `emb_cellnet` files were slightly adjusted to load the obtained embeddings instead of the raw scRNA-seq dataset.
 
