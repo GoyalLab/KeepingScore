@@ -31,8 +31,35 @@ python -m ipykernel install --user \
     --name KS_celltype \
     --display-name "KS_celltype"
 ```
+
 ## Data structure
--
--
-- 
-- 
+
+- `Embedding`: Scripts for extracting **scTab embeddings** from the feature transformer (`train.py`, `val.py`, `test.py`).  
+  ⚠️ Embedding extraction requires **very high memory (≥1,000 GB RAM)** and may take **multiple days** to complete.
+
+- `Model_LogisticRegression`: Logistic Regression baseline used for benchmarking within the **scTab** framework.
+
+- `Model_XGBoost`: XGBoost-based benchmark model used in **scTab** comparisons.
+
+- `Model_linear`: Linear classifier used as an additional baseline model in the **scTab** setup.
+
+- `Model_scTab`: Implementation of the original **scTab model** as described in the scTab paper.
+
+- `Model_softmax`: Implementation of the **Keeping SCORE** model proposed in this work.
+
+- `diffusion_model`: Training scripts and configuration files for the diffusion model used in Keeping SCORE.
+
+- `emb_tb_logs`: TensorBoard logs generated during training of scTab-based models.
+
+- `figures`: Figures used for analysis and visualization.
+
+- `scTab-checkpoints`: Pretrained **scTab checkpoint files** downloaded from the official scTab GitHub repository.
+
+- `tSNE`: Files related to t-SNE–based visualization of embedding spaces.
+
+- `Model_comparison_random_300.ipynb`: Notebook comparing performance across all listed models.
+
+## Data Source
+The details about the scTab files can be found at https://github.com/theislab/scTab.
+Note that the model `emb_cellnet` files were slightly adjusted to load the obtained embeddings instead of the raw scRNA-seq dataset.
+
