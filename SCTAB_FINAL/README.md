@@ -43,15 +43,15 @@ python -m ipykernel install --user \
 
 - `Model_linear`: Linear classifier used as an additional baseline model in the **scTab** setup.
 
-- `Model_scTab`: Implementation of the original **scTab model** as described in the scTab paper.
+- `Model_scTab`: Implementation of the original **scTab** model as described in the scTab paper.
 
 - `Model_softmax`: Implementation of the **Keeping SCORE** model proposed in this work.
 
-- `diffusion_model`: Training scripts and configuration files for the diffusion model used in Keeping SCORE.
+- `diffusion_model`: Training scripts and configuration files for the diffusion model used in **Keeping SCORE**.
 
 - `emb_tb_logs`: TensorBoard logs generated during training of scTab-based models.
 
-- `figures`: Figures used for analysis and visualization.
+- `figures`: Figures used for scTab test embedding visualization (Figure 4A and Figure S3).
 
 - `scTab-checkpoints`: Pretrained **scTab checkpoint files** downloaded from the official scTab GitHub repository.
 
