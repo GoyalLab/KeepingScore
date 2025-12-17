@@ -66,4 +66,4 @@ CONDA_OVERRIDE_CUDA="11.1" mamba install -c conda-forge xgboost=1.6.2=cuda111* c
 Details about the **scTab** datasets and files can be found here:  
 https://github.com/theislab/scTab
 
-Note that the `emb_cellnet` model files were **slightly modified** to load the extracted embeddings instead of the raw scRNA-seq data.
+Note that the `emb_cellnet`'s `estimators.py` file was modified to load the extracted embeddings instead of the raw scRNA-seq data.
