@@ -1,11 +1,11 @@
 # Keeping SCORE: Perturb-seq Analysis
 
 <p align="center">
-  <img src="Illustrative_figure_Perturb_seq.png" alt="Perturb-seq" width="300">
+  <img src="Illustrative_figure_Perturb_seq.png" alt="Perturb-seq" width="150">
 </p>
 
 <p align="center">
-  <img src="Illustrative_figure_diffusion_model_structure.png" alt="Diffusion" width="300">
+  <img src="Illustrative_figure_diffusion_model_structure.png" alt="Diffusion" width="1000">
 </p>
 
 ## Overview 
