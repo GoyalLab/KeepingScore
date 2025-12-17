@@ -31,6 +31,10 @@ python -m ipykernel install --user \
     --name KS_celltype \
     --display-name "KS_celltype"
 ```
+#### In case of XGBoost cuda version error
+```bash
+CONDA_OVERRIDE_CUDA="11.1" mamba install -c conda-forge xgboost=1.6.2=cuda111* cudatoolkit=11.1
+```
 
 ## Data structure
 
