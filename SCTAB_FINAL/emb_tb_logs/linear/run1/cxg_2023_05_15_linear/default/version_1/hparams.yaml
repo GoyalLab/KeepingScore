@@ -1,0 +1,14 @@
+batch_size: 2048
+gene_dim: 128
+learning_rate: 0.019952623149688778
+lr_scheduler: !!python/name:torch.optim.lr_scheduler.StepLR ''
+lr_scheduler_kwargs:
+  gamma: 0.9
+  step_size: 3
+  verbose: true
+optimizer: !!python/name:torch.optim.adamw.AdamW ''
+train_set_size: 15240192
+type_dim: 164
+use_class_weights: true
+val_set_size: 3500032
+weight_decay: 0.05
