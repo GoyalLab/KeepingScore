@@ -4,10 +4,6 @@
   <img src="Illustrative_figure_Perturb_seq.png" alt="Perturb-seq" width="250">
 </p>
 
-<p align="center">
-  <img src="Illustrative_figure_diffusion_model_structure.png" alt="Diffusion" width="700">
-</p>
-
 ## Overview 
 This directory contains the full pipeline for **Perturb-seq analysis**, including diffusion-based representation learning, Keeping SCORE–based classification, and benchmark classifiers (MLP, XGBoost, and logistic regression).
 
