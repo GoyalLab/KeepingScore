@@ -42,7 +42,15 @@ python -m ipykernel install \
 > Files: 
 - `0_original_data_inspection.ipynb`: the file to inspect the original dataset - `latent.h5ad` file. 
 - `1_train_val_test_split.ipynb`: the file to obtain the training, validation, and test split. This file produces `_train.npy`, `_test.npy`, `_val.npy` files. 
-- `2_model.ipynb`: the file to train a diffusion model. 
+- `2_model.ipynb`: the file to train a diffusion model.
+   * For umap, folder `denoising_umap` was manually created.
+   * To automate the process,
+     ```python
+     model_name = "Two_stage_FiLM_Diffusion"
+     schedule_name = "Sigmoid"
+     import os
+     os.mkdir("denoising_umap")
+     ```
 - `3_Classification.ipynb`: the file to perform keepingSCORE-based classification. However, it is recommended to run KeepingSCORE on HPC setting with `Uncertainty_path_4.py` in `model_keeping_score` folder.
 - `model.py`: the python file of the diffusion model. This file is used for running Keeping SCORE, not for training. The model structure is identical to `2_model.ipynb`.
 - `latent.h5ad`: The original latent space embedding used for this analysis.
