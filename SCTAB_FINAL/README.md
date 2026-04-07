@@ -11,7 +11,7 @@ This directory contains the full pipeline for scRNA-seq based cell type analysis
 - All GPU-dependent components were executed on NVIDIA A100 GPUs.
 
 ## Environment Setup
-To reproduce the Perturb-seq analysis environment, follow the steps below.
+Follow the steps below to reproduce the scRNA-seq cell type classification environment.
 
 ### 1. Create the Conda/Mamba environment
 ```bash
