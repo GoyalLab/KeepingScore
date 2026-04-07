@@ -89,11 +89,9 @@ For this analysis, please download the following 164GB dataset:
 
 https://pklab.med.harvard.edu/felix/data/merlin_cxg_2023_05_15_sf-log1p.tar.gz
 
-```bash
-curl -O merlin_cxg_2023_05_15_sf-log1p.tar.gz
-```
+Manually transfer the file to the target directory and unzip the file with the following command. 
 
 ```bash
-tar -xvzf https://pklab.med.harvard.edu/felix/data/merlin_cxg_2023_05_15_sf-log1p.tar.gz
+tar -xvzf merlin_cxg_2023_05_15_sf-log1p.tar.gz
 ```
 Note that the `emb_cellnet` - `estimators.py` file is a modified version of `cellnet` from https://github.com/theislab/scTab to load the extracted embeddings instead of the raw scRNA-seq data.
