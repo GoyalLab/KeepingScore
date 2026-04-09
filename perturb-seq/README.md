@@ -49,7 +49,7 @@ python -m ipykernel install \
      model_name = "Two_stage_FiLM_Diffusion"
      schedule_name = "Sigmoid"
      import os
-     os.mkdir("denoising_umap")
+     os.makedirs("denoising_umap")
      ```
 - `3_Classification.ipynb`: the file to perform keepingSCORE-based classification. However, it is recommended to run KeepingSCORE on HPC setting with `Uncertainty_path_4.py` in `model_keeping_score` folder.
 - `model.py`: the python file of the diffusion model. This file is used for running Keeping SCORE, not for training. The model structure is identical to `2_model.ipynb`.
