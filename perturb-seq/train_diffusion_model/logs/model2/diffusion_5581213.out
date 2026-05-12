@@ -1,0 +1,314 @@
+Current working directory: /gpfs/projects/b1042/GoyalLab/jaekj/KeepingScore/perturb-seq/ExPert/anndata/splits
+97
+97
+Current working directory: /gpfs/projects/b1042/GoyalLab/jaekj/KeepingScore/perturb-seq/train_diffusion_model
+Final alpha value:  tensor(1.5002e-05)
+Generating UMAP and KL for timestep 0
+Generating UMAP and KL for timestep 299
+Generating UMAP and KL for timestep 499
+Generating UMAP and KL for timestep 699
+Generating UMAP and KL for timestep 999
+FINAL KL divergence value: 0.0063894991762936115
+
+=== Training with schedule: Sigmoid ===
+Sigmoid Epoch 1: Train Loss = 1.117721, Val Loss = 1.227697
+Saved checkpoint for 'Sigmoid' with val loss 1.227697
+Sigmoid Epoch 2: Train Loss = 0.817510, Val Loss = 1.095041
+Saved checkpoint for 'Sigmoid' with val loss 1.095041
+Sigmoid Epoch 3: Train Loss = 0.518256, Val Loss = 0.929559
+Saved checkpoint for 'Sigmoid' with val loss 0.929559
+Sigmoid Epoch 4: Train Loss = 0.422584, Val Loss = 0.753650
+Saved checkpoint for 'Sigmoid' with val loss 0.753650
+Sigmoid Epoch 5: Train Loss = 0.398757, Val Loss = 0.610532
+Saved checkpoint for 'Sigmoid' with val loss 0.610532
+Sigmoid Epoch 6: Train Loss = 0.372198, Val Loss = 0.512704
+Saved checkpoint for 'Sigmoid' with val loss 0.512704
+Sigmoid Epoch 7: Train Loss = 0.359820, Val Loss = 0.445660
+Saved checkpoint for 'Sigmoid' with val loss 0.445660
+Sigmoid Epoch 8: Train Loss = 0.355231, Val Loss = 0.404321
+Saved checkpoint for 'Sigmoid' with val loss 0.404321
+Sigmoid Epoch 9: Train Loss = 0.353158, Val Loss = 0.377516
+Saved checkpoint for 'Sigmoid' with val loss 0.377516
+Sigmoid Epoch 10: Train Loss = 0.347598, Val Loss = 0.369277
+Saved checkpoint for 'Sigmoid' with val loss 0.369277
+Sigmoid Epoch 11: Train Loss = 0.346770, Val Loss = 0.344222
+Saved checkpoint for 'Sigmoid' with val loss 0.344222
+Sigmoid Epoch 12: Train Loss = 0.344579, Val Loss = 0.342154
+Saved checkpoint for 'Sigmoid' with val loss 0.342154
+Sigmoid Epoch 13: Train Loss = 0.343447, Val Loss = 0.339133
+Saved checkpoint for 'Sigmoid' with val loss 0.339133
+Sigmoid Epoch 14: Train Loss = 0.343842, Val Loss = 0.324737
+Saved checkpoint for 'Sigmoid' with val loss 0.324737
+Sigmoid Epoch 15: Train Loss = 0.338898, Val Loss = 0.329081
+No improvement for 1 epoch(s).
+Sigmoid Epoch 16: Train Loss = 0.342179, Val Loss = 0.313513
+Saved checkpoint for 'Sigmoid' with val loss 0.313513
+Sigmoid Epoch 17: Train Loss = 0.338614, Val Loss = 0.311512
+Saved checkpoint for 'Sigmoid' with val loss 0.311512
+Sigmoid Epoch 18: Train Loss = 0.337634, Val Loss = 0.312433
+No improvement for 1 epoch(s).
+Sigmoid Epoch 19: Train Loss = 0.339911, Val Loss = 0.313975
+No improvement for 2 epoch(s).
+Sigmoid Epoch 20: Train Loss = 0.339077, Val Loss = 0.311740
+No improvement for 3 epoch(s).
+Sigmoid Epoch 21: Train Loss = 0.337790, Val Loss = 0.313394
+No improvement for 4 epoch(s).
+Sigmoid Epoch 22: Train Loss = 0.335438, Val Loss = 0.317469
+No improvement for 5 epoch(s).
+Sigmoid Epoch 23: Train Loss = 0.335109, Val Loss = 0.318489
+No improvement for 6 epoch(s).
+Sigmoid Epoch 24: Train Loss = 0.334856, Val Loss = 0.311576
+No improvement for 7 epoch(s).
+Sigmoid Epoch 25: Train Loss = 0.333107, Val Loss = 0.322225
+No improvement for 8 epoch(s).
+Sigmoid Epoch 26: Train Loss = 0.335783, Val Loss = 0.311983
+No improvement for 9 epoch(s).
+Sigmoid Epoch 27: Train Loss = 0.333951, Val Loss = 0.316675
+No improvement for 10 epoch(s).
+Sigmoid Epoch 28: Train Loss = 0.332260, Val Loss = 0.308074
+Saved checkpoint for 'Sigmoid' with val loss 0.308074
+Sigmoid Epoch 29: Train Loss = 0.332046, Val Loss = 0.308446
+No improvement for 1 epoch(s).
+Sigmoid Epoch 30: Train Loss = 0.330391, Val Loss = 0.317604
+No improvement for 2 epoch(s).
+Sigmoid Epoch 31: Train Loss = 0.329717, Val Loss = 0.312775
+No improvement for 3 epoch(s).
+Sigmoid Epoch 32: Train Loss = 0.329795, Val Loss = 0.301894
+Saved checkpoint for 'Sigmoid' with val loss 0.301894
+Sigmoid Epoch 33: Train Loss = 0.329524, Val Loss = 0.308309
+No improvement for 1 epoch(s).
+Sigmoid Epoch 34: Train Loss = 0.329580, Val Loss = 0.314608
+No improvement for 2 epoch(s).
+Sigmoid Epoch 35: Train Loss = 0.327375, Val Loss = 0.303646
+No improvement for 3 epoch(s).
+Sigmoid Epoch 36: Train Loss = 0.328406, Val Loss = 0.304533
+No improvement for 4 epoch(s).
+Sigmoid Epoch 37: Train Loss = 0.326444, Val Loss = 0.307619
+No improvement for 5 epoch(s).
+Sigmoid Epoch 38: Train Loss = 0.325772, Val Loss = 0.308836
+No improvement for 6 epoch(s).
+Sigmoid Epoch 39: Train Loss = 0.327155, Val Loss = 0.311994
+No improvement for 7 epoch(s).
+Sigmoid Epoch 40: Train Loss = 0.326128, Val Loss = 0.312122
+No improvement for 8 epoch(s).
+Sigmoid Epoch 41: Train Loss = 0.326080, Val Loss = 0.308448
+No improvement for 9 epoch(s).
+Sigmoid Epoch 42: Train Loss = 0.325606, Val Loss = 0.308632
+No improvement for 10 epoch(s).
+Sigmoid Epoch 43: Train Loss = 0.325617, Val Loss = 0.308001
+No improvement for 11 epoch(s).
+Sigmoid Epoch 44: Train Loss = 0.324184, Val Loss = 0.310537
+No improvement for 12 epoch(s).
+Sigmoid Epoch 45: Train Loss = 0.323060, Val Loss = 0.311142
+No improvement for 13 epoch(s).
+Sigmoid Epoch 46: Train Loss = 0.324993, Val Loss = 0.316906
+No improvement for 14 epoch(s).
+Sigmoid Epoch 47: Train Loss = 0.325410, Val Loss = 0.303878
+No improvement for 15 epoch(s).
+Sigmoid Epoch 48: Train Loss = 0.325742, Val Loss = 0.313295
+No improvement for 16 epoch(s).
+Sigmoid Epoch 49: Train Loss = 0.325108, Val Loss = 0.301580
+Saved checkpoint for 'Sigmoid' with val loss 0.301580
+Sigmoid Epoch 50: Train Loss = 0.325000, Val Loss = 0.313173
+No improvement for 1 epoch(s).
+Sigmoid Epoch 51: Train Loss = 0.324035, Val Loss = 0.303312
+No improvement for 2 epoch(s).
+Sigmoid Epoch 52: Train Loss = 0.325005, Val Loss = 0.307258
+No improvement for 3 epoch(s).
+Sigmoid Epoch 53: Train Loss = 0.322091, Val Loss = 0.307178
+No improvement for 4 epoch(s).
+Sigmoid Epoch 54: Train Loss = 0.322164, Val Loss = 0.301513
+Saved checkpoint for 'Sigmoid' with val loss 0.301513
+Sigmoid Epoch 55: Train Loss = 0.322169, Val Loss = 0.306261
+No improvement for 1 epoch(s).
+Sigmoid Epoch 56: Train Loss = 0.321496, Val Loss = 0.302266
+No improvement for 2 epoch(s).
+Sigmoid Epoch 57: Train Loss = 0.319338, Val Loss = 0.306002
+No improvement for 3 epoch(s).
+Sigmoid Epoch 58: Train Loss = 0.323238, Val Loss = 0.308754
+No improvement for 4 epoch(s).
+Sigmoid Epoch 59: Train Loss = 0.322002, Val Loss = 0.300711
+Saved checkpoint for 'Sigmoid' with val loss 0.300711
+Sigmoid Epoch 60: Train Loss = 0.321509, Val Loss = 0.307626
+No improvement for 1 epoch(s).
+Sigmoid Epoch 61: Train Loss = 0.322417, Val Loss = 0.302456
+No improvement for 2 epoch(s).
+Sigmoid Epoch 62: Train Loss = 0.320104, Val Loss = 0.313629
+No improvement for 3 epoch(s).
+Sigmoid Epoch 63: Train Loss = 0.320061, Val Loss = 0.301557
+No improvement for 4 epoch(s).
+Sigmoid Epoch 64: Train Loss = 0.321953, Val Loss = 0.307882
+No improvement for 5 epoch(s).
+Sigmoid Epoch 65: Train Loss = 0.319462, Val Loss = 0.311342
+No improvement for 6 epoch(s).
+Sigmoid Epoch 66: Train Loss = 0.320334, Val Loss = 0.309647
+No improvement for 7 epoch(s).
+Sigmoid Epoch 67: Train Loss = 0.318187, Val Loss = 0.308778
+No improvement for 8 epoch(s).
+Sigmoid Epoch 68: Train Loss = 0.320033, Val Loss = 0.308215
+No improvement for 9 epoch(s).
+Sigmoid Epoch 69: Train Loss = 0.320573, Val Loss = 0.310811
+No improvement for 10 epoch(s).
+Sigmoid Epoch 70: Train Loss = 0.319816, Val Loss = 0.302576
+No improvement for 11 epoch(s).
+Sigmoid Epoch 71: Train Loss = 0.320299, Val Loss = 0.311491
+No improvement for 12 epoch(s).
+Sigmoid Epoch 72: Train Loss = 0.319182, Val Loss = 0.312917
+No improvement for 13 epoch(s).
+Sigmoid Epoch 73: Train Loss = 0.318945, Val Loss = 0.304734
+No improvement for 14 epoch(s).
+Sigmoid Epoch 74: Train Loss = 0.319656, Val Loss = 0.307536
+No improvement for 15 epoch(s).
+Sigmoid Epoch 75: Train Loss = 0.318568, Val Loss = 0.303815
+No improvement for 16 epoch(s).
+Sigmoid Epoch 76: Train Loss = 0.319943, Val Loss = 0.309008
+No improvement for 17 epoch(s).
+Sigmoid Epoch 77: Train Loss = 0.318747, Val Loss = 0.302591
+No improvement for 18 epoch(s).
+Sigmoid Epoch 78: Train Loss = 0.318911, Val Loss = 0.301963
+No improvement for 19 epoch(s).
+Sigmoid Epoch 79: Train Loss = 0.318300, Val Loss = 0.304855
+No improvement for 20 epoch(s).
+Sigmoid Epoch 80: Train Loss = 0.318049, Val Loss = 0.302079
+No improvement for 21 epoch(s).
+Sigmoid Epoch 81: Train Loss = 0.318486, Val Loss = 0.312511
+No improvement for 22 epoch(s).
+Sigmoid Epoch 82: Train Loss = 0.319364, Val Loss = 0.298541
+Saved checkpoint for 'Sigmoid' with val loss 0.298541
+Sigmoid Epoch 83: Train Loss = 0.317493, Val Loss = 0.305410
+No improvement for 1 epoch(s).
+Sigmoid Epoch 84: Train Loss = 0.319892, Val Loss = 0.303786
+No improvement for 2 epoch(s).
+Sigmoid Epoch 85: Train Loss = 0.317075, Val Loss = 0.313496
+No improvement for 3 epoch(s).
+Sigmoid Epoch 86: Train Loss = 0.317231, Val Loss = 0.300959
+No improvement for 4 epoch(s).
+Sigmoid Epoch 87: Train Loss = 0.315314, Val Loss = 0.313495
+No improvement for 5 epoch(s).
+Sigmoid Epoch 88: Train Loss = 0.317631, Val Loss = 0.306805
+No improvement for 6 epoch(s).
+Sigmoid Epoch 89: Train Loss = 0.317650, Val Loss = 0.300777
+No improvement for 7 epoch(s).
+Sigmoid Epoch 90: Train Loss = 0.315970, Val Loss = 0.314915
+No improvement for 8 epoch(s).
+Sigmoid Epoch 91: Train Loss = 0.316298, Val Loss = 0.306874
+No improvement for 9 epoch(s).
+Sigmoid Epoch 92: Train Loss = 0.316909, Val Loss = 0.305905
+No improvement for 10 epoch(s).
+Sigmoid Epoch 93: Train Loss = 0.316934, Val Loss = 0.307890
+No improvement for 11 epoch(s).
+Sigmoid Epoch 94: Train Loss = 0.315023, Val Loss = 0.305411
+No improvement for 12 epoch(s).
+Sigmoid Epoch 95: Train Loss = 0.317569, Val Loss = 0.307827
+No improvement for 13 epoch(s).
+Sigmoid Epoch 96: Train Loss = 0.318985, Val Loss = 0.305284
+No improvement for 14 epoch(s).
+Sigmoid Epoch 97: Train Loss = 0.315507, Val Loss = 0.304726
+No improvement for 15 epoch(s).
+Sigmoid Epoch 98: Train Loss = 0.316498, Val Loss = 0.303989
+No improvement for 16 epoch(s).
+Sigmoid Epoch 99: Train Loss = 0.315860, Val Loss = 0.302766
+No improvement for 17 epoch(s).
+Sigmoid Epoch 100: Train Loss = 0.316226, Val Loss = 0.307788
+No improvement for 18 epoch(s).
+Sigmoid Epoch 101: Train Loss = 0.314250, Val Loss = 0.300310
+No improvement for 19 epoch(s).
+Sigmoid Epoch 102: Train Loss = 0.316829, Val Loss = 0.310810
+No improvement for 20 epoch(s).
+Sigmoid Epoch 103: Train Loss = 0.313934, Val Loss = 0.307438
+No improvement for 21 epoch(s).
+Sigmoid Epoch 104: Train Loss = 0.315452, Val Loss = 0.306450
+No improvement for 22 epoch(s).
+Sigmoid Epoch 105: Train Loss = 0.315465, Val Loss = 0.308997
+No improvement for 23 epoch(s).
+Sigmoid Epoch 106: Train Loss = 0.315484, Val Loss = 0.310619
+No improvement for 24 epoch(s).
+Sigmoid Epoch 107: Train Loss = 0.316038, Val Loss = 0.300065
+No improvement for 25 epoch(s).
+Sigmoid Epoch 108: Train Loss = 0.316177, Val Loss = 0.308926
+No improvement for 26 epoch(s).
+Sigmoid Epoch 109: Train Loss = 0.314160, Val Loss = 0.297852
+Saved checkpoint for 'Sigmoid' with val loss 0.297852
+Sigmoid Epoch 110: Train Loss = 0.315681, Val Loss = 0.298743
+No improvement for 1 epoch(s).
+Sigmoid Epoch 111: Train Loss = 0.316182, Val Loss = 0.309249
+No improvement for 2 epoch(s).
+Sigmoid Epoch 112: Train Loss = 0.315213, Val Loss = 0.303613
+No improvement for 3 epoch(s).
+Sigmoid Epoch 113: Train Loss = 0.315125, Val Loss = 0.297146
+Saved checkpoint for 'Sigmoid' with val loss 0.297146
+Sigmoid Epoch 114: Train Loss = 0.315038, Val Loss = 0.305345
+No improvement for 1 epoch(s).
+Sigmoid Epoch 115: Train Loss = 0.314805, Val Loss = 0.305583
+No improvement for 2 epoch(s).
+Sigmoid Epoch 116: Train Loss = 0.315263, Val Loss = 0.308681
+No improvement for 3 epoch(s).
+Sigmoid Epoch 117: Train Loss = 0.314778, Val Loss = 0.299456
+No improvement for 4 epoch(s).
+Sigmoid Epoch 118: Train Loss = 0.313700, Val Loss = 0.307148
+No improvement for 5 epoch(s).
+Sigmoid Epoch 119: Train Loss = 0.315313, Val Loss = 0.292724
+Saved checkpoint for 'Sigmoid' with val loss 0.292724
+Sigmoid Epoch 120: Train Loss = 0.315074, Val Loss = 0.301425
+No improvement for 1 epoch(s).
+Sigmoid Epoch 121: Train Loss = 0.314665, Val Loss = 0.305002
+No improvement for 2 epoch(s).
+Sigmoid Epoch 122: Train Loss = 0.314748, Val Loss = 0.311592
+No improvement for 3 epoch(s).
+Sigmoid Epoch 123: Train Loss = 0.315619, Val Loss = 0.301085
+No improvement for 4 epoch(s).
+Sigmoid Epoch 124: Train Loss = 0.314772, Val Loss = 0.304004
+No improvement for 5 epoch(s).
+Sigmoid Epoch 125: Train Loss = 0.315932, Val Loss = 0.307505
+No improvement for 6 epoch(s).
+Sigmoid Epoch 126: Train Loss = 0.315791, Val Loss = 0.299811
+No improvement for 7 epoch(s).
+Sigmoid Epoch 127: Train Loss = 0.313093, Val Loss = 0.299800
+No improvement for 8 epoch(s).
+Sigmoid Epoch 128: Train Loss = 0.314243, Val Loss = 0.301347
+No improvement for 9 epoch(s).
+Sigmoid Epoch 129: Train Loss = 0.314554, Val Loss = 0.302535
+No improvement for 10 epoch(s).
+Sigmoid Epoch 130: Train Loss = 0.314899, Val Loss = 0.313726
+No improvement for 11 epoch(s).
+Sigmoid Epoch 131: Train Loss = 0.313319, Val Loss = 0.302367
+No improvement for 12 epoch(s).
+Sigmoid Epoch 132: Train Loss = 0.315081, Val Loss = 0.302503
+No improvement for 13 epoch(s).
+Sigmoid Epoch 133: Train Loss = 0.312588, Val Loss = 0.307069
+No improvement for 14 epoch(s).
+Sigmoid Epoch 134: Train Loss = 0.313465, Val Loss = 0.310761
+No improvement for 15 epoch(s).
+Sigmoid Epoch 135: Train Loss = 0.313751, Val Loss = 0.305864
+No improvement for 16 epoch(s).
+Sigmoid Epoch 136: Train Loss = 0.314313, Val Loss = 0.299483
+No improvement for 17 epoch(s).
+Sigmoid Epoch 137: Train Loss = 0.314883, Val Loss = 0.308779
+No improvement for 18 epoch(s).
+Sigmoid Epoch 138: Train Loss = 0.313150, Val Loss = 0.303845
+No improvement for 19 epoch(s).
+Sigmoid Epoch 139: Train Loss = 0.314368, Val Loss = 0.298252
+No improvement for 20 epoch(s).
+Sigmoid Epoch 140: Train Loss = 0.313516, Val Loss = 0.306631
+No improvement for 21 epoch(s).
+Sigmoid Epoch 141: Train Loss = 0.312583, Val Loss = 0.298431
+No improvement for 22 epoch(s).
+Sigmoid Epoch 142: Train Loss = 0.314185, Val Loss = 0.306894
+No improvement for 23 epoch(s).
+Sigmoid Epoch 143: Train Loss = 0.311733, Val Loss = 0.304078
+No improvement for 24 epoch(s).
+Sigmoid Epoch 144: Train Loss = 0.313393, Val Loss = 0.306585
+No improvement for 25 epoch(s).
+Sigmoid Epoch 145: Train Loss = 0.311995, Val Loss = 0.304495
+No improvement for 26 epoch(s).
+Sigmoid Epoch 146: Train Loss = 0.312395, Val Loss = 0.302743
+No improvement for 27 epoch(s).
+Sigmoid Epoch 147: Train Loss = 0.314895, Val Loss = 0.307377
+No improvement for 28 epoch(s).
+Sigmoid Epoch 148: Train Loss = 0.312837, Val Loss = 0.302996
+No improvement for 29 epoch(s).
+Sigmoid Epoch 149: Train Loss = 0.313849, Val Loss = 0.304859
+No improvement for 30 epoch(s).
+Early stopping at epoch 149
+
+=== Best Losses by Schedule ===
