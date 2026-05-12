@@ -15,7 +15,7 @@ To reproduce the Perturb-seq analysis environment, follow the steps below.
 
 ### 1. Create the Conda/Mamba environment
 ```bash
-mamba env create -f DL_py3.10_repro.yml --prefix $TARGET_DIR/KS_perturb
+mamba env create -f KS_perturb.yml --prefix $TARGET_DIR/KS_perturb
 ```
 ### 2. Activate Mamba environment 
 ```bash
