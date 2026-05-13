@@ -54,7 +54,7 @@ python -m ipykernel install \
 - `3_Classification.ipynb`: the file to perform keepingSCORE-based classification. However, it is recommended to run KeepingSCORE on HPC setting with `Uncertainty_path_4.py` in `model_keeping_score` folder.
 - `model.py`: the python file of the diffusion model. This file is used for running Keeping SCORE, not for training. The model structure is identical to `2_model.ipynb`.
 - `latent.h5ad`: The original latent space embedding used for this analysis.
-- `DL_py3.10_repro.yml`: yml file for the environment setup.
+- `KS_perturb_env.yml`: yml file for the environment setup.
 
 ### Notes 
 * Please run 0-3 in order.
