@@ -54,7 +54,10 @@ CONDA_OVERRIDE_CUDA="11.1" mamba install -c conda-forge xgboost=1.6.2=cuda111* c
 - `Model_softmax`: Implementation of the **Keeping SCORE** model proposed in this work.
 
    - `timestep_analysis` folder - `variance_based_sampling` contains the timestep subsampling analysis illustrated in Figure 4C.
-   - Multiple Keeping SCORE anlaysis was performed, but only `Uncertainty_Rand_300_T_1000_Path_4` folder is responsible for all the Figures. 
+   - Multiple Keeping SCORE anlaysis was performed, but only `Uncertainty_Rand_300_T_1000_Path_4` folder is responsible for all the Figures.
+
+- `cell_type_clustering`: kNN clustering in the latent space
+- `datapoint_extraction`: extraction of the mean values from the latent space for the attribution analysis.
      
 - `diffusion_model`: Training scripts and configuration files for the diffusion model used in **Keeping SCORE**.
 
