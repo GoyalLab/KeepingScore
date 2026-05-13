@@ -42,6 +42,7 @@ python -m ipykernel install \
 - `Interpretability`:
 - `datapoint_extraction`: mean of the perturbation class extraction for the attribution analysis
 - `ExPert`: the latent space files that were used for the attribution analysis
+- `train_diffusion_model`: files used to train diffusion model for the Perturb-seq attribution analysis
 
 > Files: 
 - `0_original_data_inspection.ipynb`: the file to inspect the original dataset - `latent.h5ad` file. 
