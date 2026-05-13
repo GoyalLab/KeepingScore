@@ -1,0 +1,655 @@
+source,target,distance,rank
+B cell,"CD4+, alpha-beta T cell",0.30172661481970553,5
+B cell,"CD8+, alpha-beta T cell",0.28297859027091643,4
+class switched mem. B cell,B cell,0.378758368636418,4
+B cell,mem. B cell,0.22675904798949387,1
+B cell,naive B cell,0.27026604121244735,3
+neuron,B cell,0.3743073742761698,4
+plasma cell,B cell,0.2702214682105244,1
+Bergmann glial cell,T cell,0.42889163959985466,5
+Bergmann glial cell,elicited macrophage,0.4224125673973028,3
+Bergmann glial cell,granulosa cell,0.38555467469270543,2
+Bergmann glial cell,kidney distal convoluted tubule epith. cell,0.351056157460935,1
+Bergmann glial cell,macrophage,0.4268314832897162,4
+CD14+ monocyte,"CD14+, CD16- clas. monocyte",0.3397962981061299,5
+"CD14-low, CD16+ monocyte",CD14+ monocyte,0.4077498061328523,5
+CD14+ monocyte,clas. monocyte,0.2797525484195622,1
+CD14+ monocyte,macrophage,0.3282034959243393,3
+CD14+ monocyte,mature NK T cell,0.33585586996507244,4
+CD14+ monocyte,monocyte,0.28273658358354026,2
+promonocyte,CD14+ monocyte,0.39885269041303406,2
+vip GABAergic cortical interneuron,CD14+ monocyte,0.34295915530835563,2
+"CD14+, CD16- clas. monocyte","CD14+, CD16+ monocyte",0.29679421261303573,1
+"CD14+, CD16+ monocyte",dendritic cell,0.3840316546815854,5
+goblet cell,"CD14+, CD16+ monocyte",0.38348639553764396,3
+"CD14+, CD16+ monocyte",kidney interstitial fibroblast,0.35171846692041386,3
+"CD14+, CD16+ monocyte",monocyte,0.3040195445801781,2
+"CD14+, CD16- clas. monocyte",clas. monocyte,0.32397446833683785,3
+"CD14+, CD16- clas. monocyte",monocyte,0.30027251427320845,2
+near-project. glutamatergic cortical neuron,"CD14+, CD16- clas. monocyte",0.33352825423246446,2
+promonocyte,"CD14+, CD16- clas. monocyte",0.41849584044564103,3
+"CD14-low, CD16+ monocyte",mature NK T cell,0.3727108705365708,2
+"CD14-low, CD16+ monocyte",monocyte,0.3608952362606389,1
+"CD14-low, CD16+ monocyte",non-classical monocyte,0.39257056075776575,3
+oligodendrocyte,"CD14-low, CD16+ monocyte",0.48618675803105194,1
+"CD14-low, CD16+ monocyte",retina horizontal cell,0.4055001772938872,4
+"CD16-, CD56-bright NK cell","CD16+, CD56-dim NK cell",0.30459568217348043,2
+"CD16+, CD56-dim NK cell","CD8+, alpha-beta cytotoxic T cell",0.3008743706678396,2
+"CD16+, CD56-dim NK cell",NK cell,0.2041820816824922,1
+"CD16+, CD56-dim NK cell","effector CD8+, alpha-beta T cell",0.3046786348524727,4
+mature B cell,"CD16+, CD56-dim NK cell",0.3766304189025814,5
+"CD16+, CD56-dim NK cell",mature NK T cell,0.3108732723233625,5
+"CD16-, CD56-bright NK cell",NK cell,0.29800172475270037,1
+chandelier pvalb GABAergic cortical interneuron,"CD16-, CD56-bright NK cell",0.3527445410200245,1
+"CD16-, CD56-bright NK cell",innate lymphoid cell,0.34773796362091525,4
+"CD16-, CD56-bright NK cell",mature NK T cell,0.34664949976520154,3
+"CD16-, CD56-bright NK cell",naive B cell,0.3490172863380808,5
+CD1c+ myeloid dendritic cell,clas. monocyte,0.3627896250339654,3
+CD1c+ myeloid dendritic cell,conventional dendritic cell,0.3646518988667814,4
+CD1c+ myeloid dendritic cell,dendritic cell,0.3277865811644617,1
+CD1c+ myeloid dendritic cell,intermediate monocyte,0.37112807614759924,5
+CD1c+ myeloid dendritic cell,macrophage,0.3329064794726636,2
+CD4+ helper T cell,"CD4+, alpha-beta T cell",0.17761156307403925,2
+"CD4+, alpha-beta mem. T cell",CD4+ helper T cell,0.1815619504692505,1
+T cell,CD4+ helper T cell,0.2206687989964421,2
+T follicular helper cell,CD4+ helper T cell,0.1866066773416417,3
+T-helper 17 cell,CD4+ helper T cell,0.22629098556050242,3
+"effector mem. CD4+, alpha-beta T cell",CD4+ helper T cell,0.2563776135494331,4
+CD4+ helper T cell,innate lymphoid cell,0.12474830979592422,1
+kidney interstitial fibroblast,CD4+ helper T cell,0.34930829401311936,5
+leukocyte,CD4+ helper T cell,0.31362571298741315,4
+mem. T cell,CD4+ helper T cell,0.1955290740717298,4
+naive T cell,CD4+ helper T cell,0.2721022394231377,2
+"naive thym.-der. CD4+, alpha-beta T cell",CD4+ helper T cell,0.20673274718848655,4
+regulatory T cell,CD4+ helper T cell,0.23122348145414207,4
+renal interstitial pericyte,CD4+ helper T cell,0.34262401327478575,1
+"CD4+, alpha-beta mem. T cell","CD4+, alpha-beta T cell",0.27241563326402585,5
+"CD4+, alpha-beta T cell","CD8+, alpha-beta T cell",0.14125097587368662,1
+NK cell,"CD4+, alpha-beta T cell",0.2526772468548565,4
+T cell,"CD4+, alpha-beta T cell",0.2609330797294388,5
+T-helper 17 cell,"CD4+, alpha-beta T cell",0.2381756335025328,5
+alpha-beta T cell,"CD4+, alpha-beta T cell",0.27361347516102585,2
+double negative T regulatory cell,"CD4+, alpha-beta T cell",0.25714232096974543,1
+"effector mem. CD4+, alpha-beta T cell","CD4+, alpha-beta T cell",0.25270826146634706,3
+mature alpha-beta T cell,"CD4+, alpha-beta T cell",0.25574374057857585,2
+"CD4+, alpha-beta T cell",mem. T cell,0.20445835091118636,5
+naive T cell,"CD4+, alpha-beta T cell",0.24068315511720362,1
+"naive thym.-der. CD4+, alpha-beta T cell","CD4+, alpha-beta T cell",0.2031232085878628,2
+non-classical monocyte,"CD4+, alpha-beta T cell",0.35302339676775274,4
+regulatory T cell,"CD4+, alpha-beta T cell",0.18871756255166594,1
+respiratory basal cell,"CD4+, alpha-beta T cell",0.32358699321698337,5
+"CD4+, alpha-beta cytotoxic T cell","CD8+, alpha-beta cytotoxic T cell",0.19876052950775558,1
+astrocyte of the cerebral cortex,"CD4+, alpha-beta cytotoxic T cell",0.34546663402623334,1
+"CD4+, alpha-beta cytotoxic T cell","central mem. CD8+, alpha-beta T cell",0.27364959234687647,4
+"CD4+, alpha-beta cytotoxic T cell","effector CD8+, alpha-beta T cell",0.266994966963628,3
+"CD4+, alpha-beta cytotoxic T cell","effector mem. CD8+, alpha-beta T cell",0.20588760982235677,2
+nasal mucosa goblet cell,"CD4+, alpha-beta cytotoxic T cell",0.2748063419264889,2
+"CD4+, alpha-beta mem. T cell",innate lymphoid cell,0.24652953865059912,3
+"CD4+, alpha-beta mem. T cell","naive thym.-der. CD4+, alpha-beta T cell",0.21979093038670172,2
+"CD4+, alpha-beta mem. T cell",regulatory T cell,0.26591959510865015,4
+"CD8+, alpha-beta mem. T cell","CD8+, alpha-beta T cell",0.20988009432005295,3
+NK cell,"CD8+, alpha-beta T cell",0.2000630287299946,1
+T cell,"CD8+, alpha-beta T cell",0.2497392145522832,3
+"activated CD8+, alpha-beta T cell","CD8+, alpha-beta T cell",0.22056052470489163,3
+alpha-beta T cell,"CD8+, alpha-beta T cell",0.2620932439378598,1
+astrocyte of the cerebral cortex,"CD8+, alpha-beta T cell",0.3975287268419183,5
+double negative T regulatory cell,"CD8+, alpha-beta T cell",0.26411834165674897,2
+"effector CD8+, alpha-beta T cell","CD8+, alpha-beta T cell",0.1872134982492284,1
+"effector mem. CD8+, alpha-beta T cell","CD8+, alpha-beta T cell",0.22807227097550753,5
+epith. cell of proximal tubule,"CD8+, alpha-beta T cell",0.3574438533249181,5
+exhausted T cell,"CD8+, alpha-beta T cell",0.31623144172046813,1
+gamma-delta T cell,"CD8+, alpha-beta T cell",0.228446702216056,3
+intraepithelial lymphocyte,"CD8+, alpha-beta T cell",0.3978121987876315,4
+lymphocyte,"CD8+, alpha-beta T cell",0.3033892889914711,2
+lymphoid lineage restricted progenitor cell,"CD8+, alpha-beta T cell",0.3962678523689529,4
+mature NK T cell,"CD8+, alpha-beta T cell",0.25284012707623826,4
+mature T cell,"CD8+, alpha-beta T cell",0.2887551191859471,1
+mature alpha-beta T cell,"CD8+, alpha-beta T cell",0.23127060468160643,1
+mature gamma-delta T cell,"CD8+, alpha-beta T cell",0.27264681578510963,1
+microglial cell,"CD8+, alpha-beta T cell",0.33208400904272395,4
+mucosal invariant T cell,"CD8+, alpha-beta T cell",0.28790626716684076,5
+myoepithelial cell of mammary gland,"CD8+, alpha-beta T cell",0.3690442119241133,2
+"naive thym.-der. CD8+, alpha-beta T cell","CD8+, alpha-beta T cell",0.2507865453912005,3
+neuron,"CD8+, alpha-beta T cell",0.3725402804643311,3
+platelet,"CD8+, alpha-beta T cell",0.33685654405431376,4
+pulmonary artery endothelial cell,"CD8+, alpha-beta T cell",0.3697039707270101,5
+tracheobronchial smooth muscle cell,"CD8+, alpha-beta T cell",0.36918506918979765,3
+"CD8+, alpha-beta mem. T cell","CD8+, alpha-beta cytotoxic T cell",0.20517166485826566,2
+"central mem. CD8+, alpha-beta T cell","CD8+, alpha-beta cytotoxic T cell",0.22492732702889917,3
+"effector CD8+, alpha-beta T cell","CD8+, alpha-beta cytotoxic T cell",0.22824469916112322,5
+"CD8+, alpha-beta cytotoxic T cell","effector mem. CD8+, alpha-beta T cell",0.21812430012941253,4
+"CD8+, alpha-beta cytotoxic T cell","effector mem. CD8+, alpha-beta T cell, term. diff.",0.18568889573876257,1
+lung macrophage,"CD8+, alpha-beta cytotoxic T cell",0.3369679389261728,4
+"activated CD8+, alpha-beta T cell","CD8+, alpha-beta mem. T cell",0.2243227896296005,4
+"central mem. CD8+, alpha-beta T cell","CD8+, alpha-beta mem. T cell",0.22423069315973643,2
+double negative T regulatory cell,"CD8+, alpha-beta mem. T cell",0.3053545821337935,4
+double negative thymocyte,"CD8+, alpha-beta mem. T cell",0.314005199084713,1
+"double+, alpha-beta thymocyte","CD8+, alpha-beta mem. T cell",0.35013043810048283,4
+"CD8+, alpha-beta mem. T cell","effector CD8+, alpha-beta T cell",0.19405535735279567,1
+lymphocyte,"CD8+, alpha-beta mem. T cell",0.3344311712379481,4
+mucosal invariant T cell,"CD8+, alpha-beta mem. T cell",0.2778116171631043,3
+"naive thym.-der. CD8+, alpha-beta T cell","CD8+, alpha-beta mem. T cell",0.2112767059815589,1
+"CD8-alpha-alpha+, lpha-eta intraepith. T cell",T cell,0.3675272645932045,5
+"CD8-alpha-alpha+, lpha-eta intraepith. T cell",T follicular helper cell,0.35897592172179593,4
+"CD8-alpha-alpha+, lpha-eta intraepith. T cell","activated CD8+, alpha-beta T cell",0.30343720492456105,1
+"CD8-alpha-alpha+, lpha-eta intraepith. T cell",alpha-beta T cell,0.3252994352760693,3
+"CD8-alpha-alpha+, lpha-eta intraepith. T cell",mem. T cell,0.31045874234856163,2
+oligodendrocyte,"CD8-alpha-alpha+, lpha-eta intraepith. T cell",0.5325374865898553,5
+IgA plasma cell,IgG plasma cell,0.19902536921142644,1
+IgA plasma cell,T-helper 17 cell,0.3682182120361954,3
+IgA plasma cell,erythrocyte,0.37105542141098113,4
+IgA plasma cell,mem. T cell,0.33060676377039344,2
+IgA plasma cell,plasma cell,0.3726298085542149,5
+IgG plasma cell,T follicular helper cell,0.3107976262510259,4
+alveolar type 1 fibroblast cell,IgG plasma cell,0.35045057512150757,1
+alveolar type 2 fibroblast cell,IgG plasma cell,0.37032371000990705,4
+astrocyte,IgG plasma cell,0.35555966682911255,3
+class switched mem. B cell,IgG plasma cell,0.28825303755343823,2
+foveolar cell of stomach,IgG plasma cell,0.3466527207613255,5
+immature B cell,IgG plasma cell,0.32861966475614757,5
+IgG plasma cell,naive B cell,0.27229561572267735,2
+plasma cell,IgG plasma cell,0.31473483607856667,4
+plasmablast,IgG plasma cell,0.3297252011835826,3
+vip GABAergic cortical interneuron,IgG plasma cell,0.35182289025047453,3
+L2/3-6 IT projecting neuron,T cell,0.3573594784779094,5
+L2/3-6 IT projecting neuron,"activated CD8+, alpha-beta T cell",0.3489545838657233,3
+L2/3-6 IT projecting neuron,clas. monocyte,0.3450780329108505,2
+L2/3-6 IT projecting neuron,"effector mem. CD4+, alpha-beta T cell",0.35453965295517165,4
+L2/3-6 IT projecting neuron,monocyte,0.3302336159888839,1
+L6b glutamatergic cortical neuron,ciliated columnar cell of tracheobronchial tree,0.35156336314565295,2
+L6b glutamatergic cortical neuron,clas. monocyte,0.36930905668072633,3
+L6b glutamatergic cortical neuron,"double+, alpha-beta thymocyte",0.371840825256016,4
+L6b glutamatergic cortical neuron,retinal ganglion cell,0.3767400586594891,5
+L6b glutamatergic cortical neuron,type II pneumocyte,0.33847543281798864,1
+alveolar type 2 fibroblast cell,NK cell,0.35080539620795115,3
+astrocyte of the cerebral cortex,NK cell,0.37227162617048715,3
+enteric smooth muscle cell,NK cell,0.3546783704601151,5
+NK cell,gamma-delta T cell,0.26879170200970015,5
+intraepithelial lymphocyte,NK cell,0.36323831118354155,1
+mature NK T cell,NK cell,0.2416379216832668,3
+mature T cell,NK cell,0.31446699699150105,3
+oligodendrocyte pre. cell,NK cell,0.3745757705209568,4
+platelet,NK cell,0.3283283193762271,2
+cardiac neuron,Schwann cell,0.43197983485466074,5
+Schwann cell,club cell,0.30906657830853623,2
+endothelial cell of lymphatic vessel,Schwann cell,0.3240508494242672,3
+Schwann cell,enteroendocrine cell,0.3329135006966262,5
+Schwann cell,keratinocyte,0.31117448987650553,3
+Schwann cell,respiratory hillock cell,0.3007976579496927,1
+alpha-beta T cell,T cell,0.2941106474344015,4
+T cell,"effector CD8+, alpha-beta T cell",0.2512748439887743,4
+erythrocyte,T cell,0.2781558124579194,5
+fallopian tube secretory epith. cell,T cell,0.32724486563522515,1
+T cell,innate lymphoid cell,0.17970449673103273,1
+lamp5 GABAergic cortical interneuron,T cell,0.3709068555412879,4
+leukocyte,T cell,0.31750484357131203,5
+lymphocyte,T cell,0.33652033978465723,5
+mast cell,T cell,0.3135660334763153,4
+mature NK T cell,T cell,0.2727748458405471,5
+mature T cell,T cell,0.3159823318258326,4
+plasma cell,T cell,0.3213079638925591,5
+sncg GABAergic cortical interneuron,T cell,0.3849441870505951,5
+T-helper 17 cell,T follicular helper cell,0.2219676296147569,2
+T-helper 22 cell,T follicular helper cell,0.28512700676437897,1
+"activated CD4+, alpha-beta T cell",T follicular helper cell,0.17793808683847556,1
+"central mem. CD4+, alpha-beta T cell",T follicular helper cell,0.20978568926904173,3
+"effector mem. CD4+, alpha-beta T cell",T follicular helper cell,0.26223840723558334,5
+kidney interstitial fibroblast,T follicular helper cell,0.33501425060541656,4
+mast cell,T follicular helper cell,0.320116022460494,5
+T follicular helper cell,mem. T cell,0.14130735456343302,1
+T-helper 17 cell,"activated CD4+, alpha-beta T cell",0.23209600458864132,4
+amacrine cell,T-helper 17 cell,0.3574441643800077,4
+immature innate lymphoid cell,T-helper 17 cell,0.3503100220166623,1
+mature T cell,T-helper 17 cell,0.3514533238467764,5
+T-helper 17 cell,mem. T cell,0.20262040582062124,1
+pro-B cell,T-helper 17 cell,0.3775096326820997,5
+T-helper 22 cell,"central mem. CD4+, alpha-beta T cell",0.29705528347668475,3
+T-helper 22 cell,"effector mem. CD4+, alpha-beta T cell",0.32954592918495573,5
+T-helper 22 cell,mem. T cell,0.3252858896606978,4
+T-helper 22 cell,"naive thym.-der. CD4+, alpha-beta T cell",0.29506659148020886,2
+"activated CD8+, alpha-beta T cell","activated CD4+, alpha-beta T cell",0.2122711127666237,2
+amacrine cell,"activated CD4+, alpha-beta T cell",0.34384930434878425,2
+kidney interstitial fibroblast,"activated CD4+, alpha-beta T cell",0.28496036467096864,1
+lymphoid lineage restricted progenitor cell,"activated CD4+, alpha-beta T cell",0.40535462759531404,5
+mature alpha-beta T cell,"activated CD4+, alpha-beta T cell",0.3102485041997559,3
+"activated CD4+, alpha-beta T cell",mem. T cell,0.1926245880936458,2
+"activated CD4+, alpha-beta T cell",regulatory T cell,0.23451038346392272,5
+exhausted T cell,"activated CD8+, alpha-beta T cell",0.38833108006752615,4
+gamma-delta T cell,"activated CD8+, alpha-beta T cell",0.22959748184202577,4
+mature T cell,"activated CD8+, alpha-beta T cell",0.31122013771413537,2
+"activated CD8+, alpha-beta T cell",mem. T cell,0.1583669556918521,1
+pulmonary artery endothelial cell,"activated CD8+, alpha-beta T cell",0.3557659672995426,2
+alpha-beta T cell,"central mem. CD8+, alpha-beta T cell",0.30349205982404925,5
+"double+, alpha-beta thymocyte",alpha-beta T cell,0.3308244255868872,3
+alpha-beta T cell,"effector CD8+, alpha-beta T cell",0.2868513435026977,3
+inflammatory macrophage,alpha-beta T cell,0.4087335168148183,5
+intestine goblet cell,alpha-beta T cell,0.36310830391919957,5
+kidney loop Henle thin des. limb epith. cell,alpha-beta T cell,0.3466661601985379,5
+alternatively activated macrophage,endothelial cell of artery,0.39436302928591394,5
+alternatively activated macrophage,granulocyte,0.39040766193822185,4
+alternatively activated macrophage,hematopoietic stem cell,0.3835250718673877,2
+alternatively activated macrophage,intermediate monocyte,0.3894197047410869,3
+alternatively activated macrophage,macrophage,0.36299079316365057,1
+alveolar macrophage,clas. monocyte,0.3455534972782881,3
+alveolar macrophage,club cell,0.3500787544362899,4
+alveolar macrophage,macrophage,0.21945179628009315,1
+alveolar macrophage,microglial cell,0.3589795105934265,5
+alveolar macrophage,pericyte,0.313771125094538,2
+cardiac neuron,alveolar type 1 fibroblast cell,0.39663269617760943,1
+alveolar type 1 fibroblast cell,enteric smooth muscle cell,0.3748695980451946,4
+alveolar type 1 fibroblast cell,kidney loop Henle thin des. limb epith. cell,0.3526458372088984,2
+alveolar type 1 fibroblast cell,nasal mucosa goblet cell,0.3701791610721885,3
+alveolar type 1 fibroblast cell,type I pneumocyte,0.3914259438521124,5
+alveolar type 2 fibroblast cell,nasal mucosa goblet cell,0.3504462500677398,2
+alveolar type 2 fibroblast cell,retinal ganglion cell,0.31968140610804663,1
+alveolar type 2 fibroblast cell,type II pneumocyte,0.37963994987769834,5
+amacrine cell,mem. T cell,0.33054377583480166,1
+amacrine cell,pericyte,0.3563435804623115,3
+amacrine cell,retinal ganglion cell,0.3594748076143116,5
+astrocyte,club cell,0.3352023823749637,1
+astrocyte,double negative thymocyte,0.3486292113490804,2
+astrocyte,keratinocyte,0.35789216419223835,4
+astrocyte,vein endothelial cell,0.3604767673249285,5
+astrocyte of the cerebral cortex,monocyte,0.3847769439771723,4
+astrocyte of the cerebral cortex,vein endothelial cell,0.3478738615032331,2
+basal cell of epithelium of trachea,basal cell,0.3338705195356185,3
+cardiac muscle cell,basal cell,0.3543881242708464,5
+basal cell,club cell,0.2811023199525283,2
+dendritic cell,basal cell,0.2854760581075042,2
+goblet cell,basal cell,0.3887383369660674,4
+basal cell,keratinocyte,0.052988687875736296,1
+myoepithelial cell of mammary gland,basal cell,0.35752687556032015,1
+basal cell,pericyte,0.31119902220013773,5
+basal cell,respiratory basal cell,0.30196016506165946,4
+tracheal goblet cell,basal cell,0.34011257276812357,5
+basal cell of epithelium of trachea,club cell,0.3449809759993675,5
+basal cell of epithelium of trachea,granulocyte,0.3425992747904689,4
+basal cell of epithelium of trachea,kidney distal convoluted tubule epith. cell,0.32863905199414734,2
+basal cell of epithelium of trachea,tracheal goblet cell,0.3124649140291199,1
+blood vessel endothelial cell,endothelial cell,0.3601060514159473,2
+blood vessel endothelial cell,endothelial cell of artery,0.34169088747654863,1
+blood vessel endothelial cell,endothelial cell of lymphatic vessel,0.37417395238097373,4
+blood vessel endothelial cell,microglial cell,0.37344506718089,3
+blood vessel endothelial cell,vein endothelial cell,0.3763861474019876,5
+bronchus fibroblast of lung,kidney connecting tubule epith. cell,0.32927400025661935,1
+bronchus fibroblast of lung,kidney interstitial fibroblast,0.38481078823779824,2
+bronchus fibroblast of lung,pericyte,0.3935520630768512,4
+bronchus fibroblast of lung,smooth muscle cell,0.3906565561851293,3
+bronchus fibroblast of lung,vein endothelial cell,0.4022531146582037,5
+central nervous sys. macrophage,capillary endothelial cell,0.3896657035821808,5
+capillary endothelial cell,endothelial cell,0.19970896453119868,1
+capillary endothelial cell,endothelial cell of artery,0.3157535728908869,4
+endothelial cell of lymphatic vessel,capillary endothelial cell,0.3242251476394019,4
+fibroblast of cardiac tissue,capillary endothelial cell,0.369668090727328,2
+granulosa cell,capillary endothelial cell,0.3377687514427351,2
+intestine goblet cell,capillary endothelial cell,0.3546252238415255,3
+kidney collecting duct principal cell,capillary endothelial cell,0.33666747537482655,2
+capillary endothelial cell,pericyte,0.30556574439674455,3
+tracheobronchial smooth muscle cell,capillary endothelial cell,0.3721881246079376,4
+capillary endothelial cell,vein endothelial cell,0.25445363600854476,2
+cardiac muscle cell,epith. cell of proximal tubule,0.3424968680720293,1
+granulosa cell,cardiac muscle cell,0.355801530306314,5
+immature innate lymphoid cell,cardiac muscle cell,0.3757407832551487,4
+cardiac muscle cell,keratinocyte,0.348070193589501,2
+cardiac muscle cell,kidney loop Henle thick asc. limb epith. cell,0.3484504666415271,4
+luminal epith. cell of mammary gland,cardiac muscle cell,0.3944814917035747,5
+cardiac muscle cell,pericyte,0.3480786567843932,3
+retinal rod cell,cardiac muscle cell,0.3786799141730126,4
+cardiac neuron,"effector CD8+, alpha-beta T cell",0.40796922715954687,2
+cardiac neuron,kidney loop Henle thick asc. limb epith. cell,0.422007264249336,3
+cardiac neuron,kidney loop Henle thin des. limb epith. cell,0.4229528415515257,4
+caudal ganglionic eminence der. GABAergic cortical interneuron,erythroblast,0.3260330130933127,2
+caudal ganglionic eminence der. GABAergic cortical interneuron,foveolar cell of stomach,0.38124117254358925,4
+glutamatergic neuron,caudal ganglionic eminence der. GABAergic cortical interneuron,0.39190615645464955,4
+caudal ganglionic eminence der. GABAergic cortical interneuron,lamp5 GABAergic cortical interneuron,0.3914460511035568,5
+caudal ganglionic eminence der. GABAergic cortical interneuron,plasmablast,0.37054071440402236,3
+caudal ganglionic eminence der. GABAergic cortical interneuron,respiratory hillock cell,0.30193219108617775,1
+"effector mem. CD4+, alpha-beta T cell","central mem. CD4+, alpha-beta T cell",0.1482823134121426,1
+"central mem. CD4+, alpha-beta T cell",mem. T cell,0.22709497939684387,5
+"central mem. CD4+, alpha-beta T cell","naive thym.-der. CD4+, alpha-beta T cell",0.14291602024536398,1
+regulatory T cell,"central mem. CD4+, alpha-beta T cell",0.21526938941649765,3
+"effector mem. CD4+, alpha-beta T cell","central mem. CD8+, alpha-beta T cell",0.25030191276555414,2
+"central mem. CD8+, alpha-beta T cell","effector mem. CD8+, alpha-beta T cell",0.20082393223902673,1
+"effector mem. CD8+, alpha-beta T cell, term. diff.","central mem. CD8+, alpha-beta T cell",0.2717223103436117,4
+"central mem. CD8+, alpha-beta T cell",gamma-delta T cell,0.252370439330466,5
+"naive thym.-der. CD8+, alpha-beta T cell","central mem. CD8+, alpha-beta T cell",0.2616292722574617,4
+central nervous sys. macrophage,endothelial cell,0.3524771945111492,1
+central nervous sys. macrophage,granulosa cell,0.3759495476179431,2
+central nervous sys. macrophage,macrophage,0.37822260395403196,4
+central nervous sys. macrophage,microglial cell,0.37791648372466036,3
+chandelier pvalb GABAergic cortical interneuron,kidney interstitial fibroblast,0.39599498837447855,4
+chandelier pvalb GABAergic cortical interneuron,near-project. glutamatergic cortical neuron,0.3922825004529412,3
+chandelier pvalb GABAergic cortical interneuron,retina horizontal cell,0.4040814536778722,5
+chandelier pvalb GABAergic cortical interneuron,vip GABAergic cortical interneuron,0.388367978385721,2
+ciliated columnar cell of tracheobronchial tree,granulosa cell,0.34504331873164484,1
+ciliated columnar cell of tracheobronchial tree,intestine goblet cell,0.38570558734499993,4
+ciliated columnar cell of tracheobronchial tree,kidney loop Henle thin des. limb epith. cell,0.350400144335976,2
+ciliated columnar cell of tracheobronchial tree,macrophage,0.38642056087546206,5
+conventional dendritic cell,clas. monocyte,0.3355964385518724,2
+dendritic cell,clas. monocyte,0.2969092064948664,5
+inflammatory macrophage,clas. monocyte,0.3964629963751525,4
+clas. monocyte,intermediate monocyte,0.19361178894312792,1
+clas. monocyte,macrophage,0.2459552971780179,2
+clas. monocyte,monocyte,0.2622815795834298,3
+non-classical monocyte,clas. monocyte,0.28271445576712884,2
+class switched mem. B cell,endothelial cell of artery,0.38790051117381397,5
+class switched mem. B cell,mem. B cell,0.28899202725118456,3
+class switched mem. B cell,naive B cell,0.27771549817503316,1
+"double+, alpha-beta thymocyte",club cell,0.32372698785763154,1
+enterocyte,club cell,0.33679618362830055,1
+enteroendocrine cell,club cell,0.2880325339713484,1
+fallopian tube secretory epith. cell,club cell,0.37898822635934637,5
+goblet cell,club cell,0.3745488210150709,2
+keratinocyte,club cell,0.2769257996661896,2
+kidney collecting duct principal cell,club cell,0.3412698593232316,5
+kidney distal convoluted tubule epith. cell,club cell,0.31299502586834504,3
+luminal epith. cell of mammary gland,club cell,0.32737354077469394,1
+mucous neck cell,club cell,0.3345421984675828,1
+club cell,nasal mucosa goblet cell,0.24367204273021403,1
+neuron,club cell,0.36990824356581586,2
+respiratory basal cell,club cell,0.26361613662366756,2
+club cell,respiratory hillock cell,0.26343673570316384,2
+tracheal goblet cell,club cell,0.3175261237373097,4
+type I pneumocyte,club cell,0.3579628555707338,4
+type II pneumocyte,club cell,0.27557922256847556,1
+vascular assoc. smooth muscle cell,club cell,0.3039439260334422,3
+vein endothelial cell,club cell,0.31203190033924666,5
+conventional dendritic cell,dendritic cell,0.30691549800318185,1
+conventional dendritic cell,intermediate monocyte,0.3414594640647878,3
+conventional dendritic cell,macrophage,0.34745465192435976,4
+conventional dendritic cell,plasmacytoid dendritic cell,0.35676807333605187,5
+corticothalamic-project. glutamatergic cortical neuron,endothelial cell,0.3400815271843216,1
+corticothalamic-project. glutamatergic cortical neuron,retinal cone cell,0.3605663755793945,3
+corticothalamic-project. glutamatergic cortical neuron,retinal ganglion cell,0.3433225181846188,2
+corticothalamic-project. glutamatergic cortical neuron,smooth muscle cell,0.3948312040242259,5
+corticothalamic-project. glutamatergic cortical neuron,vein endothelial cell,0.3676727335015584,4
+dendritic cell,intermediate monocyte,0.2875755142412677,3
+dendritic cell,keratinocyte,0.29554664371951167,4
+dendritic cell,macrophage,0.25118181991152244,1
+microglial cell,dendritic cell,0.304860206560839,2
+oligodendrocyte pre. cell,dendritic cell,0.35737819663254355,1
+plasmacytoid dendritic cell,dendritic cell,0.333937844261071,2
+tracheal goblet cell,dendritic cell,0.31187554712329535,2
+double negative thymocyte,double negative T regulatory cell,0.3254961941336819,2
+ependymal cell,double negative T regulatory cell,0.3470362488886848,1
+double negative T regulatory cell,gamma-delta T cell,0.2914499674178218,3
+pulmonary artery endothelial cell,double negative T regulatory cell,0.36302428308260726,3
+"double+, alpha-beta thymocyte",double negative thymocyte,0.35669275405447154,5
+double negative thymocyte,"effector CD8+, alpha-beta T cell",0.34105663966811184,5
+fibroblast of cardiac tissue,double negative thymocyte,0.34780917344948603,1
+double negative thymocyte,gamma-delta T cell,0.33814389767648656,4
+double negative thymocyte,nasal mucosa goblet cell,0.3331848635704413,3
+paneth cell,double negative thymocyte,0.4030515674419207,1
+plasmacytoid dendritic cell,double negative thymocyte,0.35361685933909537,4
+"double+, alpha-beta thymocyte",retina horizontal cell,0.3285301866393111,2
+"effector mem. CD8+, alpha-beta T cell, term. diff.","effector CD8+, alpha-beta T cell",0.26220921700874256,3
+exhausted T cell,"effector CD8+, alpha-beta T cell",0.3362809993707898,2
+"effector CD8+, alpha-beta T cell",innate lymphoid cell,0.19179204733295474,2
+mature NK T cell,"effector CD8+, alpha-beta T cell",0.2005746524411005,1
+"naive thym.-der. CD8+, alpha-beta T cell","effector CD8+, alpha-beta T cell",0.27466430795889074,5
+sst GABAergic cortical interneuron,"effector CD8+, alpha-beta T cell",0.3500995905069987,2
+mucosal invariant T cell,"effector mem. CD4+, alpha-beta T cell",0.27887299758180895,4
+"effector mem. CD8+, alpha-beta T cell, term. diff.","effector mem. CD8+, alpha-beta T cell",0.27596515888735484,5
+exhausted T cell,"effector mem. CD8+, alpha-beta T cell",0.3918798077487773,5
+gamma-delta T cell,"effector mem. CD8+, alpha-beta T cell",0.20182444105665642,1
+mucosal invariant T cell,"effector mem. CD8+, alpha-beta T cell",0.25995374107017755,2
+respiratory basal cell,"effector mem. CD8+, alpha-beta T cell",0.30100920865956693,3
+"effector mem. CD8+, alpha-beta T cell, term. diff.",gamma-delta T cell,0.2385292963526734,2
+paneth cell,"effector mem. CD8+, alpha-beta T cell, term. diff.",0.4194305392230425,5
+elicited macrophage,gamma-delta T cell,0.34726197552805693,4
+elicited macrophage,lung macrophage,0.3351239484340339,2
+elicited macrophage,macrophage,0.3092055715234939,1
+elicited macrophage,monocyte,0.3468544046632327,3
+elicited macrophage,mucosal invariant T cell,0.3483705918013098,5
+endothelial cell of artery,endothelial cell,0.24378593941173865,1
+endothelial cell of lymphatic vessel,endothelial cell,0.29766736372841784,2
+fibroblast of cardiac tissue,endothelial cell,0.37092641641905955,3
+glutamatergic neuron,endothelial cell,0.3561050831435355,2
+endothelial cell,mature NK T cell,0.2948887665473947,5
+pericyte,endothelial cell,0.2829906934483506,3
+plasmacytoid dendritic cell,endothelial cell,0.3492240468234823,3
+renal interstitial pericyte,endothelial cell,0.3605117194661379,2
+retinal cone cell,endothelial cell,0.35922893977942083,5
+vascular assoc. smooth muscle cell,endothelial cell,0.3182254741799897,4
+vein endothelial cell,endothelial cell,0.239386009336363,1
+kidney loop Henle thin des. limb epith. cell,endothelial cell of artery,0.34567075776389067,4
+pulmonary artery endothelial cell,endothelial cell of artery,0.3024269229675425,1
+pvalb GABAergic cortical interneuron,endothelial cell of artery,0.3244591013457805,2
+tracheal goblet cell,endothelial cell of artery,0.28848128786141036,1
+endothelial cell of artery,vein endothelial cell,0.3100189801339286,4
+endothelial cell of lymphatic vessel,respiratory hillock cell,0.3485697289820454,5
+endothelial cell of lymphatic vessel,vein endothelial cell,0.295224348882142,1
+enteric smooth muscle cell,hematopoietic stem cell,0.3497032446387589,4
+enteric smooth muscle cell,innate lymphoid cell,0.326800327116909,3
+enteric smooth muscle cell,retinal ganglion cell,0.32626412731842735,2
+enteric smooth muscle cell,smooth muscle cell,0.29582414761793807,1
+sst GABAergic cortical interneuron,enteric smooth muscle cell,0.3638475774631781,4
+enterocyte,enteroendocrine cell,0.3413566111206121,3
+enterocyte,foveolar cell of stomach,0.3479132492120439,4
+intestine goblet cell,enterocyte,0.34836393378380537,2
+lamp5 GABAergic cortical interneuron,enterocyte,0.3776461126655952,5
+enterocyte,macrophage,0.3370449344862302,2
+sncg GABAergic cortical interneuron,enterocyte,0.3645974368483479,2
+fallopian tube secretory epith. cell,enteroendocrine cell,0.3534107908393326,3
+intestine goblet cell,enteroendocrine cell,0.33823589780463115,1
+enteroendocrine cell,keratinocyte,0.31086696616636755,3
+enteroendocrine cell,mem. T cell,0.32371477586635444,4
+enteroendocrine cell,smooth muscle cell,0.29278271348830154,2
+ependymal cell,erythrocyte,0.40921304085298327,4
+ependymal cell,pre. B cell,0.4012998300739282,2
+ependymal cell,pulmonary artery endothelial cell,0.40693882768101297,3
+ependymal cell,retinal rod cell,0.4135592946285601,5
+epith. cell of proximal tubule,kidney distal convoluted tubule epith. cell,0.351521529261423,4
+epith. cell of proximal tubule,kidney loop Henle thin des. limb epith. cell,0.3320611666724713,1
+epith. cell of proximal tubule,type II pneumocyte,0.34202631494158364,2
+erythroblast,erythrocyte,0.19557301652531,1
+erythroblast,hematopoietic stem cell,0.3049272981663529,4
+erythroblast,megakaryocyte-erythroid progenitor cell,0.2878162429347101,3
+erythroblast,retinal ganglion cell,0.28704466887647917,2
+erythrocyte,hematopoietic stem cell,0.1483916350068294,2
+immature B cell,erythrocyte,0.31757021974575517,4
+mast cell,erythrocyte,0.23996390688609703,2
+mature B cell,erythrocyte,0.3467229467339461,2
+erythrocyte,megakaryocyte-erythroid progenitor cell,0.11897048524503706,1
+platelet,erythrocyte,0.3420639431079048,5
+pre. B cell,erythrocyte,0.28108507836684393,3
+promonocyte,erythrocyte,0.4282534575490774,4
+exhausted T cell,"naive thym.-der. CD8+, alpha-beta T cell",0.357189087995064,3
+fallopian tube secretory epith. cell,kidney connecting tubule epith. cell,0.3780370610944508,4
+fallopian tube secretory epith. cell,monocyte,0.3348389096922385,2
+fibroblast of cardiac tissue,mature NK T cell,0.38390285004980373,5
+fibroblast of cardiac tissue,pericyte,0.37665958378786557,4
+foveolar cell of stomach,kidney distal convoluted tubule epith. cell,0.34592454988882293,4
+kidney loop Henle thin asc. limb epith. cell,foveolar cell of stomach,0.36344983900909134,5
+foveolar cell of stomach,pvalb GABAergic cortical interneuron,0.2815612449871878,1
+foveolar cell of stomach,respiratory hillock cell,0.31240207995960845,3
+foveolar cell of stomach,retinal ganglion cell,0.2963246031046719,2
+intraepithelial lymphocyte,gamma-delta T cell,0.43181421058847047,5
+mature gamma-delta T cell,gamma-delta T cell,0.3532840379547384,3
+mucosal invariant T cell,gamma-delta T cell,0.21150625913132737,1
+glutamatergic neuron,macrophage,0.3929267676978959,5
+glutamatergic neuron,microglial cell,0.33954252821192155,1
+glutamatergic neuron,near-project. glutamatergic cortical neuron,0.38640918013606385,3
+goblet cell,intestine goblet cell,0.3740899472095923,1
+goblet cell,keratinocyte,0.3890759595074864,5
+granulocyte,hematopoietic stem cell,0.32635815865432705,1
+granulocyte,intermediate monocyte,0.33478279086238805,3
+lamp5 GABAergic cortical interneuron,granulocyte,0.3533092304624855,3
+lymphoid lineage restricted progenitor cell,granulocyte,0.3669046487290658,2
+granulocyte,mast cell,0.34152036757209014,4
+promonocyte,granulocyte,0.3866163961343928,1
+sst GABAergic cortical interneuron,granulocyte,0.3314037696963361,1
+immature innate lymphoid cell,granulosa cell,0.3742248998789369,3
+granulosa cell,innate lymphoid cell,0.3496750243493557,4
+mesothelial cell,granulosa cell,0.35984269303443206,4
+oligodendrocyte,granulosa cell,0.510939441559784,2
+granulosa cell,smooth muscle cell,0.30747357300447853,1
+immature B cell,hematopoietic stem cell,0.31545824137162615,3
+lymphoid lineage restricted progenitor cell,hematopoietic stem cell,0.3888944484958875,3
+mast cell,hematopoietic stem cell,0.21266000780267613,1
+hematopoietic stem cell,megakaryocyte-erythroid progenitor cell,0.09609491308087037,1
+hematopoietic stem cell,pre. B cell,0.2948677842611569,4
+lung pericyte,immature B cell,0.3604436068497322,3
+immature B cell,naive B cell,0.21414015842698442,1
+pre. B cell,immature B cell,0.2607178779403152,1
+immature innate lymphoid cell,mast cell,0.3790514304379119,5
+immature innate lymphoid cell,transitional stage B cell,0.3558303192710317,2
+inflammatory macrophage,intermediate monocyte,0.34891462751436764,1
+inflammatory macrophage,macrophage,0.3528170275775112,2
+inflammatory macrophage,monocyte,0.3951625359371408,3
+intermediate monocyte,innate lymphoid cell,0.2587007141101788,5
+kidney interstitial fibroblast,innate lymphoid cell,0.32918815197768014,3
+mature NK T cell,innate lymphoid cell,0.204561381637265,2
+mem. B cell,innate lymphoid cell,0.23200850052423505,3
+innate lymphoid cell,mem. T cell,0.22293783662035593,5
+naive T cell,innate lymphoid cell,0.2873225833021711,5
+neutrophil,innate lymphoid cell,0.3205009886030836,1
+plasma cell,innate lymphoid cell,0.280728452697539,2
+pre. B cell,innate lymphoid cell,0.2913968246461026,4
+lamp5 GABAergic cortical interneuron,intermediate monocyte,0.34656675412087545,2
+lung macrophage,intermediate monocyte,0.30646306098090603,1
+intermediate monocyte,macrophage,0.17544078786311645,1
+microglial cell,intermediate monocyte,0.32250690693193373,3
+monocyte,intermediate monocyte,0.2329770492880171,2
+neutrophil,intermediate monocyte,0.35129067970877137,5
+non-classical monocyte,intermediate monocyte,0.2538737493450255,1
+intestine goblet cell,mem. T cell,0.358035347156451,4
+intraepithelial lymphocyte,mature NK T cell,0.37030079986137965,2
+intraepithelial lymphocyte,nasal mucosa goblet cell,0.3920254026410962,3
+paneth cell,keratinocyte,0.4062319055612119,2
+keratinocyte,pericyte,0.2995630134226708,5
+keratinocyte,respiratory hillock cell,0.29523050503637494,3
+vascular assoc. smooth muscle cell,keratinocyte,0.3274394045703424,5
+kidney collecting duct intercalated cell,kidney collecting duct principal cell,0.3907001722252311,5
+kidney collecting duct intercalated cell,kidney connecting tubule epith. cell,0.3680095598571592,2
+kidney collecting duct intercalated cell,kidney distal convoluted tubule epith. cell,0.36180915878739517,1
+kidney collecting duct intercalated cell,kidney interstitial fibroblast,0.3722149769720945,3
+oligodendrocyte,kidney collecting duct intercalated cell,0.5121491696219176,3
+kidney collecting duct intercalated cell,pulmonary artery endothelial cell,0.38281018052926086,4
+kidney collecting duct principal cell,kidney connecting tubule epith. cell,0.2490264088498838,1
+mucous neck cell,kidney collecting duct principal cell,0.33924499635705574,2
+kidney collecting duct principal cell,smooth muscle cell,0.33700883656367686,3
+kidney distal convoluted tubule epith. cell,kidney connecting tubule epith. cell,0.29579982471043686,1
+pro-B cell,kidney connecting tubule epith. cell,0.36443117988622253,2
+kidney connecting tubule epith. cell,retinal ganglion cell,0.34305451555743105,5
+kidney connecting tubule epith. cell,vein endothelial cell,0.3123708403804233,3
+kidney distal convoluted tubule epith. cell,kidney loop Henle thick asc. limb epith. cell,0.3231202895964893,4
+kidney loop Henle thin asc. limb epith. cell,kidney distal convoluted tubule epith. cell,0.32944423420985947,4
+mesothelial cell,kidney distal convoluted tubule epith. cell,0.361790713153733,5
+retina horizontal cell,kidney distal convoluted tubule epith. cell,0.2976397314701811,1
+type II pneumocyte,kidney distal convoluted tubule epith. cell,0.3309734182394233,4
+kidney interstitial fibroblast,retinal ganglion cell,0.3270843761615977,2
+kidney loop Henle thick asc. limb epith. cell,kidney loop Henle thin asc. limb epith. cell,0.23552133057415825,1
+kidney loop Henle thin des. limb epith. cell,kidney loop Henle thick asc. limb epith. cell,0.32008308246988315,2
+kidney loop Henle thick asc. limb epith. cell,nasal mucosa goblet cell,0.32480858391462986,5
+kidney loop Henle thick asc. limb epith. cell,retinal ganglion cell,0.3144585798252866,2
+kidney loop Henle thin des. limb epith. cell,kidney loop Henle thin asc. limb epith. cell,0.3151020393550569,1
+kidney loop Henle thin asc. limb epith. cell,retinal ganglion cell,0.2974458781096062,2
+renal interstitial pericyte,kidney loop Henle thin des. limb epith. cell,0.3864368070207168,5
+retinal rod cell,kidney loop Henle thin des. limb epith. cell,0.348719052439595,2
+lamp5 GABAergic cortical interneuron,type I pneumocyte,0.3265500294114728,1
+leukocyte,lymphocyte,0.29043340184526945,1
+leukocyte,macrophage,0.31048618222520474,3
+leukocyte,mature NK T cell,0.30861639468811575,2
+renal interstitial pericyte,leukocyte,0.3779112946579568,3
+luminal epith. cell of mammary gland,mem. T cell,0.36723659546503296,3
+luminal epith. cell of mammary gland,nasal mucosa goblet cell,0.345750086155744,2
+luminal epith. cell of mammary gland,vip GABAergic cortical interneuron,0.3712290645252585,4
+lung macrophage,macrophage,0.3341121568498069,2
+lung macrophage,monocyte,0.34455909027307297,5
+lung pericyte,mucosal invariant T cell,0.37652672697272016,5
+lung pericyte,"naive thym.-der. CD8+, alpha-beta T cell",0.3751349123141767,4
+lung pericyte,near-project. glutamatergic cortical neuron,0.32409021014893435,1
+lung pericyte,pericyte,0.3540869082814533,2
+promonocyte,lung pericyte,0.4291964873061316,5
+lymphoid lineage restricted progenitor cell,lymphocyte,0.3650420656699229,1
+lymphocyte,mature NK T cell,0.3084960581083248,3
+microglial cell,macrophage,0.1803859840026375,1
+monocyte,macrophage,0.22520982877351925,1
+neuron,macrophage,0.3597646217777024,1
+neutrophil,macrophage,0.33956750368241617,2
+non-classical monocyte,macrophage,0.35540865565847735,5
+pericyte,macrophage,0.2853133797767541,4
+mast cell,megakaryocyte-erythroid progenitor cell,0.24332355700313923,3
+mature B cell,mem. B cell,0.33248439348996406,1
+mature B cell,plasmablast,0.3522557598543702,4
+mature B cell,transitional stage B cell,0.3475226097963223,3
+mature gamma-delta T cell,mature T cell,0.3923862829401049,5
+oligodendrocyte pre. cell,mature T cell,0.3697521368274672,3
+mature gamma-delta T cell,mature alpha-beta T cell,0.34304066599947747,2
+mature alpha-beta T cell,mem. T cell,0.3222763208851289,4
+mature alpha-beta T cell,"naive thym.-der. CD4+, alpha-beta T cell",0.32639947654355606,5
+mature gamma-delta T cell,myoepithelial cell of mammary gland,0.3723140469196565,4
+pre. B cell,megakaryocyte-erythroid progenitor cell,0.2684429868581558,2
+microglial cell,mem. B cell,0.33527742898585733,5
+mem. B cell,naive B cell,0.21329284792128445,1
+plasma cell,mem. B cell,0.29365995123243993,3
+plasmablast,mem. B cell,0.2531100636776573,1
+transitional stage B cell,mem. B cell,0.2661922224369264,1
+naive T cell,mem. T cell,0.2787008701134377,4
+pvalb GABAergic cortical interneuron,mem. T cell,0.37173613483493884,3
+mesothelial cell,pericyte,0.35973638631411997,3
+pvalb GABAergic cortical interneuron,mesothelial cell,0.37890095452999184,4
+mesothelial cell,smooth muscle cell,0.3572272771697058,2
+mesothelial cell,type II pneumocyte,0.29493594405801127,1
+neutrophil,monocyte,0.34107662582750453,3
+non-classical monocyte,monocyte,0.3398822980058057,3
+plasmacytoid dendritic cell,monocyte,0.3042485947081952,1
+mucous neck cell,mucosal invariant T cell,0.3666106973438219,3
+mucous neck cell,smooth muscle cell,0.3888742088357292,4
+mucous neck cell,transitional stage B cell,0.39390159701685534,5
+near-project. glutamatergic cortical neuron,myoepithelial cell of mammary gland,0.37751119320654547,5
+myoepithelial cell of mammary gland,respiratory basal cell,0.3709768965457453,3
+myoepithelial cell of mammary gland,respiratory hillock cell,0.3746596643711593,5
+plasmablast,naive B cell,0.32883218149436,2
+transitional stage B cell,naive B cell,0.2777226186475623,2
+naive T cell,regulatory T cell,0.2721969592359621,3
+"naive thym.-der. CD8+, alpha-beta T cell","naive thym.-der. CD4+, alpha-beta T cell",0.21310215893235274,2
+platelet,"naive thym.-der. CD4+, alpha-beta T cell",0.332680259652137,3
+regulatory T cell,"naive thym.-der. CD4+, alpha-beta T cell",0.205167771404421,2
+platelet,"naive thym.-der. CD8+, alpha-beta T cell",0.3135631603155834,1
+sncg GABAergic cortical interneuron,"naive thym.-der. CD8+, alpha-beta T cell",0.32328771792926925,1
+nasal mucosa goblet cell,respiratory hillock cell,0.32175539943025244,4
+nasal mucosa goblet cell,type II pneumocyte,0.30407875200080636,3
+vip GABAergic cortical interneuron,nasal mucosa goblet cell,0.33290966568961733,1
+near-project. glutamatergic cortical neuron,respiratory basal cell,0.3401080573969375,3
+near-project. glutamatergic cortical neuron,retinal cone cell,0.3664037270087853,4
+neuron,oligodendrocyte pre. cell,0.3776050820090847,5
+neutrophil,pre. B cell,0.3470628025887984,4
+oligodendrocyte,tracheal goblet cell,0.5317645463959748,4
+oligodendrocyte pre. cell,respiratory basal cell,0.359635312939922,2
+paneth cell,smooth muscle cell,0.4065486349918943,3
+paneth cell,type I pneumocyte,0.41942663501626776,4
+pro-B cell,pericyte,0.37358188772378986,4
+pvalb GABAergic cortical interneuron,pericyte,0.38010974865799085,5
+retina horizontal cell,pericyte,0.3174934853090948,2
+retinal cone cell,pericyte,0.3367727024452434,3
+retinal ganglion cell,pericyte,0.30811448247697415,5
+pericyte,smooth muscle cell,0.23949681934659506,1
+sst GABAergic cortical interneuron,pericyte,0.3533596898625394,3
+pericyte,vascular assoc. smooth muscle cell,0.26295932042267167,2
+plasmablast,plasma cell,0.33581809621225545,5
+transitional stage B cell,plasmablast,0.3332285614124786,3
+pro-B cell,pre. B cell,0.2940577872514448,1
+retina horizontal cell,pre. B cell,0.323879934084524,3
+pro-B cell,retina horizontal cell,0.36852564042393265,3
+pulmonary artery endothelial cell,respiratory hillock cell,0.3668248441972498,4
+vip GABAergic cortical interneuron,pulmonary artery endothelial cell,0.3708314171362628,4
+renal interstitial pericyte,sncg GABAergic cortical interneuron,0.38345372731513383,4
+respiratory basal cell,respiratory hillock cell,0.15992161184219866,1
+tracheobronchial smooth muscle cell,respiratory basal cell,0.37332671026440634,5
+tracheobronchial smooth muscle cell,respiratory hillock cell,0.3509802739742697,2
+type I pneumocyte,respiratory hillock cell,0.34022702659612314,3
+retina horizontal cell,retinal ganglion cell,0.32866008531454205,5
+retinal cone cell,retinal ganglion cell,0.313467237786625,1
+retinal rod cell,retinal cone cell,0.3669141493367437,3
+retinal cone cell,smooth muscle cell,0.3546322003929476,4
+sncg GABAergic cortical interneuron,retinal cone cell,0.37029104169490734,3
+retinal cone cell,vein endothelial cell,0.3222921871596658,2
+retinal ganglion cell,retinal rod cell,0.2701361608228835,1
+sst GABAergic cortical interneuron,retinal ganglion cell,0.37634506024465186,5
+retinal rod cell,smooth muscle cell,0.3799055788092591,5
+tracheobronchial smooth muscle cell,smooth muscle cell,0.2888475545324982,1
+type I pneumocyte,smooth muscle cell,0.3378634727623795,2
+smooth muscle cell,vascular assoc. smooth muscle cell,0.23842677787009725,1
+type I pneumocyte,type II pneumocyte,0.3580289772935067,5

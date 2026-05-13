@@ -1,0 +1,165 @@
+k,cell_type_plot,broad_cluster
+9,Bergmann glial cell,0
+9,L6b glutamatergic cortical neuron,0
+9,Schwann cell,0
+9,alveolar type 1 fibroblast cell,0
+9,alveolar type 2 fibroblast cell,0
+9,astrocyte,0
+9,basal cell,0
+9,basal cell of epithelium of trachea,0
+9,blood vessel endothelial cell,0
+9,bronchus fibroblast of lung,0
+9,capillary endothelial cell,0
+9,cardiac muscle cell,0
+9,cardiac neuron,0
+9,caudal ganglionic eminence der. GABAergic cortical interneuron,0
+9,central nervous sys. macrophage,0
+9,chandelier pvalb GABAergic cortical interneuron,0
+9,ciliated columnar cell of tracheobronchial tree,0
+9,club cell,0
+9,corticothalamic-project. glutamatergic cortical neuron,0
+9,double negative thymocyte,0
+9,"double+, alpha-beta thymocyte",0
+9,endothelial cell,0
+9,endothelial cell of artery,0
+9,endothelial cell of lymphatic vessel,0
+9,enteric smooth muscle cell,0
+9,enterocyte,0
+9,enteroendocrine cell,0
+9,epith. cell of proximal tubule,0
+9,fibroblast of cardiac tissue,0
+9,foveolar cell of stomach,0
+9,glutamatergic neuron,0
+9,goblet cell,0
+9,granulosa cell,0
+9,intestine goblet cell,0
+9,keratinocyte,0
+9,kidney collecting duct intercalated cell,0
+9,kidney collecting duct principal cell,0
+9,kidney connecting tubule epith. cell,0
+9,kidney distal convoluted tubule epith. cell,0
+9,kidney loop Henle thick asc. limb epith. cell,0
+9,kidney loop Henle thin asc. limb epith. cell,0
+9,kidney loop Henle thin des. limb epith. cell,0
+9,lamp5 GABAergic cortical interneuron,0
+9,luminal epith. cell of mammary gland,0
+9,lung pericyte,0
+9,mesothelial cell,0
+9,mucous neck cell,0
+9,myoepithelial cell of mammary gland,0
+9,nasal mucosa goblet cell,0
+9,near-project. glutamatergic cortical neuron,0
+9,oligodendrocyte,0
+9,paneth cell,0
+9,pericyte,0
+9,pulmonary artery endothelial cell,0
+9,pvalb GABAergic cortical interneuron,0
+9,respiratory basal cell,0
+9,respiratory hillock cell,0
+9,retina horizontal cell,0
+9,retinal cone cell,0
+9,retinal ganglion cell,0
+9,retinal rod cell,0
+9,smooth muscle cell,0
+9,tracheal goblet cell,0
+9,tracheobronchial smooth muscle cell,0
+9,type I pneumocyte,0
+9,type II pneumocyte,0
+9,vascular assoc. smooth muscle cell,0
+9,vein endothelial cell,0
+9,vip GABAergic cortical interneuron,0
+9,"CD16+, CD56-dim NK cell",1
+9,"CD16-, CD56-bright NK cell",1
+9,CD4+ helper T cell,1
+9,"CD4+, alpha-beta T cell",1
+9,"CD4+, alpha-beta cytotoxic T cell",1
+9,"CD4+, alpha-beta mem. T cell",1
+9,"CD8+, alpha-beta T cell",1
+9,"CD8+, alpha-beta cytotoxic T cell",1
+9,"CD8+, alpha-beta mem. T cell",1
+9,"CD8-alpha-alpha+, lpha-eta intraepith. T cell",1
+9,NK cell,1
+9,T cell,1
+9,T follicular helper cell,1
+9,T-helper 17 cell,1
+9,T-helper 22 cell,1
+9,"activated CD4+, alpha-beta T cell",1
+9,"activated CD8+, alpha-beta T cell",1
+9,alpha-beta T cell,1
+9,amacrine cell,1
+9,astrocyte of the cerebral cortex,1
+9,"central mem. CD4+, alpha-beta T cell",1
+9,"central mem. CD8+, alpha-beta T cell",1
+9,double negative T regulatory cell,1
+9,"effector CD8+, alpha-beta T cell",1
+9,"effector mem. CD4+, alpha-beta T cell",1
+9,"effector mem. CD8+, alpha-beta T cell",1
+9,"effector mem. CD8+, alpha-beta T cell, term. diff.",1
+9,exhausted T cell,1
+9,gamma-delta T cell,1
+9,innate lymphoid cell,1
+9,intraepithelial lymphocyte,1
+9,kidney interstitial fibroblast,1
+9,leukocyte,1
+9,lymphocyte,1
+9,lymphoid lineage restricted progenitor cell,1
+9,mature NK T cell,1
+9,mature T cell,1
+9,mature alpha-beta T cell,1
+9,mature gamma-delta T cell,1
+9,mem. T cell,1
+9,mucosal invariant T cell,1
+9,naive T cell,1
+9,"naive thym.-der. CD4+, alpha-beta T cell",1
+9,"naive thym.-der. CD8+, alpha-beta T cell",1
+9,platelet,1
+9,regulatory T cell,1
+9,renal interstitial pericyte,1
+9,sncg GABAergic cortical interneuron,1
+9,CD14+ monocyte,2
+9,"CD14+, CD16+ monocyte",2
+9,"CD14+, CD16- clas. monocyte",2
+9,"CD14-low, CD16+ monocyte",2
+9,CD1c+ myeloid dendritic cell,2
+9,L2/3-6 IT projecting neuron,2
+9,alternatively activated macrophage,2
+9,alveolar macrophage,2
+9,clas. monocyte,2
+9,conventional dendritic cell,2
+9,dendritic cell,2
+9,elicited macrophage,2
+9,fallopian tube secretory epith. cell,2
+9,granulocyte,2
+9,inflammatory macrophage,2
+9,intermediate monocyte,2
+9,lung macrophage,2
+9,macrophage,2
+9,microglial cell,2
+9,monocyte,2
+9,neuron,2
+9,neutrophil,2
+9,non-classical monocyte,2
+9,oligodendrocyte pre. cell,2
+9,plasmacytoid dendritic cell,2
+9,promonocyte,2
+9,sst GABAergic cortical interneuron,2
+9,B cell,3
+9,IgA plasma cell,3
+9,IgG plasma cell,3
+9,class switched mem. B cell,3
+9,ependymal cell,3
+9,erythroblast,3
+9,erythrocyte,3
+9,hematopoietic stem cell,3
+9,immature B cell,3
+9,immature innate lymphoid cell,3
+9,mast cell,3
+9,mature B cell,3
+9,megakaryocyte-erythroid progenitor cell,3
+9,mem. B cell,3
+9,naive B cell,3
+9,plasma cell,3
+9,plasmablast,3
+9,pre. B cell,3
+9,pro-B cell,3
+9,transitional stage B cell,3
