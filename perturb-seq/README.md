@@ -37,7 +37,11 @@ python -m ipykernel install \
 - `model_MLP`: This folder contains the training details of the multi-layer perceptron for benchmark.
 - `model_XGB`: This folder contains the training details of the XGBoost model for benchmark.
 - `model_keeping_score`: This folder contains our Keeping SCORE model training and prediction details
+     - `results_path_10000` can be found at https://drive.google.com/drive/folders/1hLAT-pkPznItaZdw36t4zXjzvUNQmLVj?usp=sharing. This file contains the Lcis used for the attribution analysis. 
 - `model_logistic_regression`: This folder contains the training details about the logistic regression model.
+- `Interpretability`:
+- `datapoint_extraction`: mean of the perturbation class extraction for the attribution analysis
+- `ExPert`: the latent space files that were used for the attribution analysis
 
 > Files: 
 - `0_original_data_inspection.ipynb`: the file to inspect the original dataset - `latent.h5ad` file. 
